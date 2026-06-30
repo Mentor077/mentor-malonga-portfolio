@@ -120,8 +120,7 @@ Sur la base de cette analyse, j'ai formulé des recommandations concrètes :
 ### 📊 Page 1 — Vue Stratégique Globale
 
 <p align="center">
-  <img src="https://github.com/Mentor077/MAP-Transport-Report/blob/main/page1.png?raw=true" 
-       alt="Dashboard Page 1 - Vue Stratégique" 
+ <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-second.jpg?raw=true" 
        width="900">
 </p>
 
