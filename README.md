@@ -1,4 +1,13 @@
 # <p align="center">⚡ MENTOR MALONGA ⚡</p>
+
+<p align="center">
+  <img src="https://github.com/MentorMalonga/MentorMalonga/blob/main/profile.jpg?raw=true" 
+       alt="Mentor Malonga" 
+       width="200" 
+       height="200" 
+       style="border-radius:50%">
+</p>
+
 ## <p align="center">**Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail**</p>
 
 <p align="center">
@@ -73,10 +82,18 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ### 🚀 Projets Majeurs Réalisés
 
-#### 📊 1. Pipeline Big Data d'Optimisation des Stocks & Ventes (Tecno)
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_3_PROJETS_STRATÉGIQUES_DÉPLOYÉS-FF0000?style=for-the-badge" alt="Projets">
+</p>
 
-> *Conception d'une architecture de traitement pour sécuriser la chaîne logistique
-> sur de gros volumes.*
+> 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
+
+---
+
+#### 📊 1. Pipeline Big Data d'Optimisation des Stocks & Ventes
+
+> 🔥 *Un système intelligent qui a révolutionné la gestion des stocks
+> chez Tecno Mobile en éliminant les ruptures et les surplus.*
 
 | Élément | Détail |
 |---------|--------|
@@ -91,11 +108,18 @@ Mon profil combine une expertise technique de pointe en traitement de données m
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="PowerBI">
 </p>
 
+<p align="left">
+  <a href="https://github.com/MentorMalonga/sales-inventory-tracker" target="_blank">
+    <img src="https://img.shields.io/badge/👉_Voir_le_Projet-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo 1">
+  </a>
+</p>
+
 ---
 
 #### 🎯 2. Planification Stratégique et Benchmarking Commercial
 
-> *Déploiement et supervision d'un nouveau canal de vente pour le réseau retail.*
+> 📈 *Un outil de pilotage qui a permis d'aligner les objectifs
+> commerciaux et d'optimiser le positionnement tarifaire de la marque.*
 
 | Élément | Détail |
 |---------|--------|
@@ -107,6 +131,38 @@ Mon profil combine une expertise technique de pointe en traitement de données m
   <img src="https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoft&logoColor=white" alt="MS Project">
   <img src="https://img.shields.io/badge/Excel_Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/KPI_Design-00C853?style=flat-square&logo=target&logoColor=white" alt="KPI">
+</p>
+
+<p align="left">
+  <a href="https://github.com/MentorMalonga/kpi-dashboard-benchmark" target="_blank">
+    <img src="https://img.shields.io/badge/👉_Voir_le_Projet-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo 2">
+  </a>
+</p>
+
+---
+
+#### 🧠 3. Système Prédictif de Performance Commerciale
+
+> 🚀 *Un modèle d'analyse prédictive qui anticipe les tendances du marché
+> et guide les décisions stratégiques avant la concurrence.*
+
+| Élément | Détail |
+|---------|--------|
+| **Problématique** | Anticiper les fluctuations de ventes et adapter la stratégie commerciale en temps réel |
+| **Solution** | Construction d'un modèle prédictif avec **Python (Scikit-Learn)**, alimenté par des données nettoyées via **Pandas** et visualisé dans **Power BI** |
+| **Impact** | Prévisions de ventes avec une précision de +85%, permettant une meilleure allocation des ressources et du stock |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="PowerBI">
+</p>
+
+<p align="left">
+  <a href="https://github.com/MentorMalonga/predictive-sales-model" target="_blank">
+    <img src="https://img.shields.io/badge/👉_Voir_le_Projet-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo 3">
+  </a>
 </p>
 
 ---
