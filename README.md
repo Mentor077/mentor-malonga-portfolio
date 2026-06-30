@@ -1,20 +1,20 @@
-# <p align="center">⚡ MENTOR MALONGA ⚡</p>
+<h1 align="center">⚡ MENTOR MALONGA ⚡</h1>
 
 <p align="center">
-  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true"
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
        alt="Mentor Malonga" 
        width="200" 
-       height="200" 
-       style="border-radius:50%">
+       height="200">
 </p>
 
-## <p align="center">**Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail**</p>
+<h2 align="center">Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Expertise-Big_Data_&_BI-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white" alt="Expertise">
   <img src="https://img.shields.io/badge/Management-Channel_Supervisor-1565C0?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Management">
   <img src="https://img.shields.io/badge/Entreprise-Tecno_Mobile-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Entreprise">
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Localisation-Congo_Brazzaville-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation">
   <img src="https://img.shields.io/badge/Status-Disponible-brightgreen?style=for-the-badge" alt="Status">
@@ -42,6 +42,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ### 🛠️ Ma Boîte à Outils (Tech & Management Stack)
 
 #### 📉 Data Engineering & Big Data
+
 <p align="left">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/Python_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Python Pandas">
@@ -51,6 +52,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 </p>
 
 #### 📊 Business Intelligence & Gestion de Projet
+
 <p align="left">
   <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Project">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI">
@@ -60,6 +62,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 </p>
 
 #### 🧠 Méthodologies & Compétences Métier
+
 <p align="left">
   <img src="https://img.shields.io/badge/Channel_Supervision-FF4081?style=for-the-badge&logo=supervisord&logoColor=white" alt="Channel Supervision">
   <img src="https://img.shields.io/badge/KPI_Design-00C853?style=for-the-badge&logo=target&logoColor=white" alt="KPI Design">
@@ -69,6 +72,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 </p>
 
 #### 🎛️ Électronique & Outils Dev
+
 <p align="left">
   <img src="https://img.shields.io/badge/Électronique-E91E63?style=for-the-badge&logo=arduino&logoColor=white" alt="Électronique">
   <img src="https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT">
@@ -92,8 +96,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 #### 📊 1. Pipeline Big Data d'Optimisation des Stocks & Ventes
 
-> 🔥 *Un système intelligent qui a révolutionné la gestion des stocks
-> chez Tecno Mobile en éliminant les ruptures et les surplus.*
+> 🔥 *Un système intelligent qui a révolutionné la gestion des stocks chez Tecno Mobile en éliminant les ruptures et les surplus.*
 
 | Élément | Détail |
 |---------|--------|
@@ -109,7 +112,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 </p>
 
 <p align="left">
-  <a href="https://github.com/MentorMalonga/sales-inventory-tracker" target="_blank">
+  <a href="https://github.com/Mentor077/sales-inventory-tracker">
     <img src="https://img.shields.io/badge/👉_Voir_le_Projet-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo 1">
   </a>
 </p>
@@ -118,8 +121,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 #### 🎯 2. Planification Stratégique et Benchmarking Commercial
 
-> 📈 *Un outil de pilotage qui a permis d'aligner les objectifs
-> commerciaux et d'optimiser le positionnement tarifaire de la marque.*
+> 📈 *Un outil de pilotage qui a permis d'aligner les objectifs commerciaux et d'optimiser le positionnement tarifaire de la marque.*
 
 | Élément | Détail |
 |---------|--------|
@@ -134,7 +136,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 </p>
 
 <p align="left">
-  <a href="https://github.com/MentorMalonga/kpi-dashboard-benchmark" target="_blank">
+  <a href="https://github.com/Mentor077/kpi-dashboard-benchmark">
     <img src="https://img.shields.io/badge/👉_Voir_le_Projet-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo 2">
   </a>
 </p>
@@ -143,8 +145,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 #### 🧠 3. Système Prédictif de Performance Commerciale
 
-> 🚀 *Un modèle d'analyse prédictive qui anticipe les tendances du marché
-> et guide les décisions stratégiques avant la concurrence.*
+> 🚀 *Un modèle d'analyse prédictive qui anticipe les tendances du marché et guide les décisions stratégiques avant la concurrence.*
 
 | Élément | Détail |
 |---------|--------|
@@ -160,7 +161,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 </p>
 
 <p align="left">
-  <a href="https://github.com/MentorMalonga/predictive-sales-model" target="_blank">
+  <a href="https://github.com/Mentor077/predictive-sales-model">
     <img src="https://img.shields.io/badge/👉_Voir_le_Projet-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo 3">
   </a>
 </p>
@@ -180,11 +181,11 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MentorMalonga&show_icons=true&theme=tokyonight&hide_border=true&locale=fr&count_private=true" alt="Statistiques de Mentor">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mentor077&show_icons=true&theme=tokyonight&hide_border=true&locale=fr&count_private=true" alt="Statistiques de Mentor">
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MentorMalonga&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak de Mentor">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mentor077&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak de Mentor">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MentorMalonga&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Top Langages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mentor077&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Top Langages">
 </p>
 
 ---
@@ -192,11 +193,11 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ### 📬 Entrer en Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mentor-malonga" target="_blank">
+  <a href="https://www.linkedin.com/in/mentor-malonga">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/242069776995" target="_blank">
+  <a href="https://wa.me/242069776995">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   &nbsp;&nbsp;
@@ -212,5 +213,5 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MentorMalonga&color=blueviolet&style=for-the-badge&label=Visiteurs+du+Profil" alt="Compteur de visiteurs">
+  <img src="https://komarev.com/ghpvc/?username=Mentor077&color=blueviolet&style=for-the-badge&label=Visiteurs+du+Profil" alt="Compteur de visiteurs">
 </p>
