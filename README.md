@@ -1,74 +1,99 @@
-# 🚀 Salut, moi c'est Mentor Malonga !
-### Data Analyst Senior | Diplômé en Électronique | Spécialiste Business Intelligence
+# <p align="center">⚡ MENTOR MALONGA ⚡</p>
+## <p align="center">**Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail**</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Disponible-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Localisation-Congo-blue?style=for-the-badge" alt="Localisation">
+  <img src="https://shields.io" alt="Expertise">
+  <img src="https://shields.io" alt="Management">
+  <img src="https://shields.io" alt="Entreprise">
+</p>
+<p align="center">
+  <img src="https://shields.io" alt="Localisation">
 </p>
 
 ---
 
-### 📊 À propos de moi
+### 🎯 Profil Professionnel
 
-Fort d'un parcours académique en **Électronique** et de plus de 6 ans d'expérience pratique (depuis 2020) en tant que **Data Analyst chez Tecno Mobile**, je combine rigueur technique et expertise analytique. 
+Professionnel de la donnée issu d'un parcours académique rigoureux en **Électronique**, je cumule plus de 6 ans d'expérience stratégique (depuis 2020) au sein de **Tecno Mobile**. 
 
-Au quotidien, je transforme les données opérationnelles en leviers de croissance. Mon rôle consiste à piloter l'inventaire, assurer un suivi transparent des ventes, définir des KPIs stratégiques et réaliser des Benchmarks compétitifs pour apporter des solutions concrètes aux défis de l'entreprise.
-
-- ⚡ **Domaine d'expertise :** Business Intelligence, gestion des stocks & inventaires, modélisation des ventes, KPI Design & Benchmarking.
-- 🎯 **Compétence clé :** Résolution de problèmes complexes par l'analyse prédictive et descriptive.
-- 🤝 **Collaboration :** Disponible pour des audits de données, la création de tableaux de bord décisionnels et du consulting stratégique.
+Mon profil combine une expertise technique de pointe en traitement de données massives (**PySpark, Python Pandas, SQL**) et une solide expérience managériale de terrain en tant que **Channel Supervisor** et **Sales Representative (SR)** pendant 2 ans. Cette double compétence me permet de piloter la planification de projets complexes (**MS Project**), d'optimiser les inventaires, de concevoir des KPIs stratégiques et de piloter la performance de réseaux de distribution d'envergure.
 
 ---
 
-### 🛠️ Mes Compétences Techniques (Data & Hardware Stack)
+### 📊 Matrice de Valeur Ajoutée (Core Value)
 
-#### 📊 Analyse de Données & Business Intelligence
+| 📈 STRATÉGIE & DISTRIBUTION | 📦 BIG DATA & ANALYTICS | 🎯 PILOTAGE DE PROJETS |
+| :--- | :--- | :--- |
+| • **Channel Supervision** (2 ans)<br>• Management d'équipes de vente (SR)<br>• Suivi de la performance du réseau | • Traitement de données avec **PySpark**<br>• Manipulation avec **Python Pandas**<br>• Modélisation et requêtage **SQL** | • Planification sur **MS Project**<br>• Modélisation de KPIs & Benchmarks<br>• Gestion & Audit des inventaires |
+
+---
+
+### 🛠️ Ma Boîte à Outils (Tech & Management Stack)
+
+#### 📉 Data Engineering & Big Data
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://shields.io" alt="PySpark">
+  <img src="https://shields.io" alt="Python Pandas">
+  <img src="https://shields.io" alt="SQL">
 </p>
 
-#### 🧠 Méthodologies & Analyse Métier
+#### 📊 Business Intelligence & Gestion de Projet
 <p align="left">
-  <img src="https://img.shields.io/badge/Inventaire-FF6F00?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Inventaire">
-  <img src="https://img.shields.io/badge/KPIs-8E44AD?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="KPIs">
-  <img src="https://img.shields.io/badge/Benchmarking-2C3E50?style=for-the-badge&logo=speedtest&logoColor=white" alt="Benchmarking">
+  <img src="https://shields.io" alt="MS Project">
+  <img src="https://shields.io" alt="PowerBI">
+  <img src="https://shields.io" alt="Excel">
 </p>
 
-#### 🎛️ Systèmes Électroniques & Matériels
+#### 🧠 Méthodologies & Matériel
 <p align="left">
-  <img src="https://img.shields.io/badge/Électronique-009688?style=for-the-badge&logo=arduino&logoColor=white" alt="Électronique">
-  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT">
+  <img src="https://shields.io" alt="Channel Supervision">
+  <img src="https://shields.io" alt="Électronique">
+  <img src="https://shields.io" alt="Git">
 </p>
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 🚀 Projets Majeurs Réalisés
+
+#### 📊 1. Pipeline Big Data d'Optimisation des Stocks & Ventes (Tecno)
+*Conception d'une architecture de traitement pour sécuriser la chaîne logistique sur de gros volumes.*
+*   **Problématique :** Traiter des volumes massifs de ventes et éviter les ruptures de stock à l'échelle du réseau de distribution.
+*   **Solution :** Utilisation de **PySpark** pour l'ingestion des données brutes, nettoyage sous **Pandas** et stockage dans une base SQL connectée à un rapport dynamique **Power BI**.
+*   **Impact :** Réduction drastique des écarts d'inventaire et mise en place d'alertes automatiques basées sur des seuils critiques.
+*   🛠️ *Outils : PySpark, Python Pandas, SQL, Power BI* | `config.py` inclus.
+
+#### 🎯 2. Planification Stratégique et Benchmarking Commercial
+*Déploiement et supervision d'un nouveau canal de vente pour le réseau retail.*
+*   **Rôle :** Channel Supervisor / Chef de projet.
+*   **Solution :** Modélisation de la feuille de route sur **MS Project**, définition des indicateurs de performance clés (KPIs) des équipes de vente (SR) et analyse comparative des parts de marché face aux concurrents.
+*   **Impact :** Alignement parfait des livrables et optimisation du positionnement tarifaire de la marque sur le marché local.
+*   🛠️ *Outils : MS Project, Excel Advanced, KPI Design*
+
+---
+
+### 📊 Mes Statistiques GitHub Activées
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mentor-malonga&show_icons=true&theme=tokyonight" alt="Statistiques GitHub">
+  <img src="https://vercel.app" alt="Statistiques de Mentor">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mentor-malonga&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://herokuapp.com" alt="GitHub Streak de Mentor">
 </p>
 
 ---
 
-### 📂 Projets Phares (Data & Operations Portfolio)
+### 📬 Entrer en Contact
 
-1. 📱 **[Sales & Inventory Tracker]** : Système automatisé de suivi des ventes et de gestion d'inventaire en temps réel pour le secteur de la téléphonie.  
-   *Tech : SQL, Power BI, Advanced Excel* | [Voir le Repo](URL_DU_REPO)
-2. 🎯 **[KPI Dashboard & Benchmark Tool]** : Tableau de bord de pilotage de la performance commerciale avec analyse comparative des parts de marché.  
-   *Tech : Python, Power BI* | [Voir le Repo](URL_DU_REPO)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me" target="_blank">
+    <img src="https://shields.io" alt="WhatsApp">
+  </a>
+  <a href="mailto:mentormalonga17@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
 
 ---
-
-### 📬 Me Contacter
-
-- 💼 **LinkedIn :** [linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)
-- 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
-- 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me/242069776995)
-
----
-<p align="center">Propulsé avec passion par Mentor Malonga</p>
+<p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
