@@ -1,6 +1,6 @@
 <h1 align="center">⚡ MENTOR MALONGA ⚡</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
        alt="Mentor Malonga" 
        width="200" 
