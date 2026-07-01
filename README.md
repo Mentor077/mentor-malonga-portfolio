@@ -1,25 +1,30 @@
-<h1 align="center">⚡ Mentor MALONGA ⚡</h1>
-
-<p align="center">
-  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
-       alt="Mentor Malonga" 
-       width="200" 
-       height="200">
-</p>
-
-<h2 align="center">Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail</h2>
-
-<p align="center">
-  <img src="https://shields.io" alt="Expertise">
-  <img src="https://shields.io" alt="Management">
-  <img src="https://shields.io" alt="Entreprise">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Localisation-Congo_Brazzaville-5C4033?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Expérience">
-</p>
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <!-- Colonne Gauche : Photo de profil alignée -->
+    <td valign="top" width="220">
+      <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
+           alt="Mentor Malonga" 
+           width="200" 
+           height="200" 
+           style="border-radius: 10px;">
+    </td>
+    <!-- Colonne Droite : Titres et Badges principaux -->
+    <td valign="top">
+      <h1>⚡ Mentor MALONGA ⚡</h1>
+      <h3>Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail</h3>
+      <p>
+        <img src="https://shields.io" alt="Expertise">
+        <img src="https://shields.io" alt="Management">
+        <img src="https://shields.io" alt="Entreprise">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/📍_Localisation-Congo_Brazzaville-5C4033?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation">
+        <img src="https://shields.io" alt="Status">
+        <img src="https://shields.io" alt="Expérience">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
