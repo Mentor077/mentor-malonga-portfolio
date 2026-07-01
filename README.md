@@ -1,6 +1,6 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <!-- Colonne Gauche : Photo de profil alignée-->
+    <!-- Colonne Gauche : Photo de profil alignée -->
     <td valign="top" width="220">
       <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
            alt="Mentor Malonga" 
@@ -143,3 +143,22 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 <p align="left">
   <img src="https://shields.io" alt="MS Project">
 </p>
+
+---
+
+### 📬 Me Contacter
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me" target="_blank">
+    <img src="https://shields.io" alt="WhatsApp">
+  </a>
+  <a href="mailto:mentormalonga17@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
+
+---
+<p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
