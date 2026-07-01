@@ -87,7 +87,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ### 🚀 Projets Majeurs Réalisés
 
 <p align="center">
-  <a href="Projet1.md">
+ <a href="Projet1">
     <img src="https://img.shields.io/badge/🔥_3_PROJETS_STRATÉGIQUES_DÉPLOYÉS-FF0000?style=for-the-badge" alt="Projets">
   </a>
 </p>
