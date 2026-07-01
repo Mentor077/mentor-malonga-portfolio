@@ -1,114 +1,135 @@
-<h2 align="center">🚀 Mes Projets</h2>
+---
+
+# 🚀 Projets
+
+> *Une sélection de projets illustrant mes compétences en Business Intelligence, Big Data, Data Analytics et optimisation des performances commerciales.*
+
+<br>
+
+## 📊 1. Dashboard de Performance Commerciale – MAP
 
 <table>
 <tr>
+<td width="65%">
 
-<td width="33%" valign="top">
+### 📌 Contexte
 
-<h3 align="center">📊 Dashboard Commercial MAP</h3>
+Développement d'un tableau de bord décisionnel permettant aux responsables commerciaux de suivre en temps réel les performances des ventes de **MAP**, distributeur de téléphones mobiles au Congo.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Power_BI-6D4C41?style=for-the-badge&logo=powerbi&logoColor=white">
-</p>
+### 🎯 Objectifs
 
-<p>
+- Suivre les ventes quotidiennes
+- Comparer les ventes aux objectifs
+- Identifier les meilleures villes et marchés
+- Évaluer les performances des superviseurs
+- Faciliter la prise de décision
 
-✔ Tableau de bord Power BI
+### 🛠 Technologies
 
-✔ KPI commerciaux
+`Power BI` • `Power Query` • `DAX` • `Excel`
 
-✔ DAX
+### 📈 Fonctionnalités
 
-✔ Power Query
+- KPI de performance
+- Ventes vs Objectifs
+- Analyse par ville
+- Analyse par superviseur
+- Analyse par modèle
+- Filtres interactifs
+- Reporting dynamique
 
-✔ Reporting interactif
+### 🚀 Résultats
 
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Mentor077/dashboard-map">
-
-<img src="https://img.shields.io/badge/Voir_le_projet-6D4C41?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
+- Centralisation des données commerciales
+- Automatisation du reporting
+- Meilleure visibilité sur les performances
+- Aide à la décision stratégique
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center">
 
-<h3 align="center">📦 Pipeline Big Data</h3>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-<p align="center">
+<br><br>
 
-<img src="https://img.shields.io/badge/PySpark-6D4C41?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge">
 
-</p>
+<br><br>
 
-<p>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge">
 
-✔ PySpark
+<br><br>
 
-✔ SQL
+<a href="https://github.com/Mentor077/NOM_DU_PROJET">
+<img src="https://img.shields.io/badge/🔗_Voir_le_projet-181717?style=for-the-badge&logo=github">
+</a>
 
-✔ Pandas
+</td>
+</tr>
+</table>
 
-✔ ETL
+---
 
-✔ Power BI
+## 📦 2. Pipeline Big Data d'Optimisation des Stocks
 
-</p>
+<table>
+<tr>
+<td width="65%">
 
-<p align="center">
+### 📌 Contexte
+
+Conception d'un pipeline Big Data destiné à améliorer le suivi des ventes, des stocks et des mouvements de produits dans un réseau de distribution.
+
+### 🎯 Objectifs
+
+- Nettoyer les données de vente
+- Centraliser les informations
+- Optimiser le suivi des stocks
+- Détecter les ruptures
+- Générer automatiquement les indicateurs
+
+### 🛠 Technologies
+
+`PySpark` • `Python` • `Pandas` • `SQL` • `Power BI`
+
+### 📈 Fonctionnalités
+
+- Pipeline ETL
+- Nettoyage des données
+- Agrégation des ventes
+- Alertes sur les ruptures
+- Dashboard Power BI
+
+### 🚀 Résultats
+
+- Automatisation du traitement des données
+- Réduction des erreurs de reporting
+- Suivi des stocks en temps réel
+- Optimisation des décisions commerciales
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<br><br>
 
 <a href="https://github.com/Mentor077/sales-inventory-tracker">
-
-<img src="https://img.shields.io/badge/Voir_le_projet-6D4C41?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/🔗_Voir_le_projet-181717?style=for-the-badge&logo=github">
 </a>
 
-</p>
-
 </td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">🤖 Prédiction des ventes</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-6D4C41?style=for-the-badge&logo=python&logoColor=white">
-
-</p>
-
-<p>
-
-✔ Machine Learning
-
-✔ Scikit-Learn
-
-✔ Pandas
-
-✔ Power BI
-
-✔ Prévision des ventes
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Mentor077/predictive-sales-model">
-
-<img src="https://img.shields.io/badge/Voir_le_projet-6D4C41?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
-
-</td>
-
 </tr>
-
 </table>
+
+---
