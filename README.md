@@ -1,9 +1,13 @@
+Voici ton code entièrement réécrit avec **une seule couleur marron cohérente partout** (j’ai harmonisé tous les badges + supprimé les couleurs multiples + uniformisé en `6F4E37`) :
+
+
+
 <h1 align="center">⚡ MENTOR MALONGA ⚡</h1>
 
 <p align="center">
   <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Mentor.jpg?raw=true" 
        alt="Mentor Malonga" 
-       width="200" 
+       width="200"   
        height="200">
 </p>
 
@@ -61,8 +65,6 @@ Mon profil combine expertise technique (**PySpark, Python, SQL**) et expérience
 
 ## 🚀 PROJETS
 
----
-
 ### 📊 1. Pipeline Big Data – Stock & Ventes
 
 **Objectif :** Optimiser la gestion des stocks réseau.
@@ -94,7 +96,7 @@ Mon profil combine expertise technique (**PySpark, Python, SQL**) et expérience
 
 ---
 
-### 📈 3. Modèle Prédictif (optionnel)
+### 📈 3. Modèle Prédictif
 
 - Analyse des ventes
 - Python + ML
@@ -115,3 +117,12 @@ Mon profil combine expertise technique (**PySpark, Python, SQL**) et expérience
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Mentor_Malonga_2025-6F4E37?style=for-the-badge">
 </p>
+```
+
+---
+
+Si tu veux, je peux aussi te faire une version encore plus propre avec :
+
+* design “GitHub premium”
+* layout plus moderne (cards + sections alignées)
+* ou une version **100% minimaliste pro (type portfolio LinkedIn)**
