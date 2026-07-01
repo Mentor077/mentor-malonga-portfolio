@@ -67,7 +67,8 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ### 🚀 Projets Majeurs Réalisés
 
-*   🔥 **Projet 1 Déployé :** Pipeline Big Data d'Optimisation des Stocks & Ventes
+*   🔥 **Projet 1 Déployé :**Conception d'un tableau de bord interactif Power BI permettant de suivre les performances commerciales, les prospects, les revenus, les pertes et les principaux indicateurs (KPIs) d'une entreprise de transport de 2021 à 2024 afin de faciliter la prise de décision.**
+
 *   🔥 **Projet 2 Déployé :** Planification Stratégique et Benchmarking Commercial
 
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
