@@ -13,7 +13,7 @@
   <tr>
     <!-- Colonne Gauche : Photo de profil alignée -->
     <td valign="top" width="220">
-      <img src="https://git" 
+      <img src="Mentor.jpg" 
            alt="Mentor Malonga" 
            width="200" 
            height="200" 
