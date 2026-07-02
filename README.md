@@ -75,7 +75,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
     <img src="https://shields.io🔥__PROJET__2__DÉPLOYÉ-5C4033?style=for-the-badge" alt="Projet 2">
   </a>
   <a href="#pro-3">
-    <img src="https://shields.io🔥__PROJET__3__DÉPLOYÉ-8B4513?style=for-the-badge" alt="Projet 3">
+    <img src="https://shields.io🔥__PROJET__3__DÉPLOYÉS-8B4513?style=for-the-badge" alt="Projet 3">
   </a>
 </p>
 
@@ -97,15 +97,15 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ---
 
 <a id="pro-2"></a>
-#### 📊 2. Marketing Analytics & Performance Operations Tracker (Tecno Mobile)
+#### 📊 2. Marketing Analytics & Commercial Sales Performance Tracker (Tecno Mobile)
 
-> Analyse complète des performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Brazzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.
+> Étude approfondie du marché et suivi rigoureux des performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Brazzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.
 
 | Élément | Détail |
 |---------|--------|
-| **Problématique** | Analyser l'impact des campagnes marketing, identifier les tendances d'achat et suivre la performance du réseau de vente |
-| **Solution** | Utilisation de **PySpark** pour traiter les volumes massifs de ventes, segmentation par modèle/superviseur sous **Pandas** et création d'un rapport de suivi dynamique sur **Power BI** |
-| **Impact** | Atteinte de 127% de l'objectif mensuel, optimisation du stock selon la demande par ville et renforcement de l'évaluation des équipes terrain |
+| **Problématique** | Consolider et unifier des données de ventes massives et hétérogènes pour analyser l'impact marketing et la performance du réseau |
+| **Solution** | Mise en œuvre d'un processus **ETL complet** (Extraction, Transformation, Chargement) avec **PySpark** et **Pandas** pour nettoyer les données, puis modélisation des rapports de suivi des ventes sur **Power BI** |
+| **Impact** | Atteinte de 127% de l'objectif mensuel, visibilité en temps réel sur la demande par ville et optimisation des décisions de réapprovisionnement terrain |
 
 👉 [Voir le Code du Projet](https://github.com)
 
