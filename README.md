@@ -13,14 +13,14 @@
       <h1>⚡ Mentor MALONGA ⚡</h1>
       <h3>Data Analyst Senior & Channel Supervisor | Expert Big Data, BI & Opérations Retail</h3>
       <p>
-        💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp; 
-        👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp; 
-        🏢 <b>Entreprise :</b> Tecno Mobile
+        <img src="https://shields.io" alt="Expertise">
+        <img src="https://shields.io" alt="Management">
+        <img src="https://shields.io" alt="Entreprise">
       </p>
       <p>
-        📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp; 
-        🟢 <b>Status :</b> Disponible &nbsp;|&nbsp; 
-        📈 <b>Expérience :</b> +6 ans
+        <img src="https://shields.io📍__Localisation-Congo__Brazzaville-5C4033?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation">
+        <img src="https://shields.ioStatus-Disponible-8B4513?style=for-the-badge" alt="Status">
+        <img src="https://shields.ioExpérience-+6__ans-5C4033?style=for-the-badge" alt="Expérience">
       </p>
     </td>
   </tr>
@@ -103,7 +103,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 <a id="pro-2"></a>
 #### 📊 2. Marketing Analytics & Commercial Sales Performance Tracker (Tecno Mobile)
 
-> Étude approfondie du marché et suivi rigoureux des performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Brazzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.
+> Étude approfondie du marché et suivi rigoureux des performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Bravzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.
 
 | Élément | Détail |
 |---------|--------|
@@ -132,7 +132,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 <p align="left">
   <a href="https://github.com" target="_blank">
-    <img src="https://shields.io🔗__Rejoindre__le__Projet__3-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Projet2">
+    <img src="https://shields.io🔗__Rejoindre__le__Projet__3-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Lien Projet 3">
   </a>
 </p>
 
