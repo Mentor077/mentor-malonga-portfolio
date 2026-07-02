@@ -97,30 +97,30 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ---
 
 <a id="pro-2"></a>
-#### 📊 2. Pipeline Big Data & Sales Optimization (Tecno Mobile)
+#### 📊 2. Marketing Analytics & Performance Operations Tracker (Tecno Mobile)
 
 > Analyse complète des performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Brazzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.
 
 | Élément | Détail |
 |---------|--------|
-| **Problématique** | Traiter des volumes massifs de ventes et éviter les ruptures de stock à l'échelle du réseau de distribution |
-| **Solution** | Utilisation de **PySpark** pour l'ingestion des données brutes, nettoyage sous **Pandas** et stockage dans une base SQL connectée à un rapport dynamique **Power BI** |
-| **Impact** | Réduction drastique des écarts d'inventaire et mise en place d'alertes automatiques basées sur des seuils critiques |
+| **Problématique** | Analyser l'impact des campagnes marketing, identifier les tendances d'achat et suivre la performance du réseau de vente |
+| **Solution** | Utilisation de **PySpark** pour traiter les volumes massifs de ventes, segmentation par modèle/superviseur sous **Pandas** et création d'un rapport de suivi dynamique sur **Power BI** |
+| **Impact** | Atteinte de 127% de l'objectif mensuel, optimisation du stock selon la demande par ville et renforcement de l'évaluation des équipes terrain |
 
 👉 [Voir le Code du Projet](https://github.com)
 
 ---
 
 <a id="pro-3"></a>
-#### 🎓 3. Éducation BI – Analyse des Résultats du Baccalauréat Congolais 2024
+#### 🎓 3. Educational Market Analysis & Strategic Ingestion Dashboard
 
 > Tableau de bord analytique d'aide à la décision conçu sur Power BI, offrant une vue d'ensemble sur les résultats du Baccalauréat congolais 2024 avec le suivi de 39 876 élèves diplômés répartis à travers 703 établissements scolaires, tout en analysant l'âge moyen (21 ans), la moyenne des notes (11,46/20), le genre et les mentions obtenues.
 
 | Élément | Détail |
 |---------|--------|
-| **Problématique** | Traiter et segmenter un volume massif de données publiques d'examen pour identifier les indicateurs de réussite |
-| **Solution** | Ingestion des bases élèves, classification par type d'école (Public vs Privé) et calcul des moyennes cumulées |
-| **Impact** | Cartographie claire du taux de réussite national par établissement, âge et session d'examen |
+| **Problématique** | Traiter, segmenter et auditer un volume massif de données pour évaluer la répartition territoriale des performances de réussite |
+| **Solution** | Ingestion de gros volumes de données élèves, classification par canal (Public vs Privé vs Candidat libre) et suivi rigoureux des moyennes et mentions par session |
+| **Impact** | Cartographie stratégique de la performance par établissement et par tranche d'âge, facilitant l'évaluation macro-analytique |
 
 *Outils clés utilisés : Power BI, Advanced Analytics, Data Segmentation*
 
