@@ -1,3 +1,16 @@
+---
+layout: default
+title: Dashboard de Performance Commerciale de MAP
+---
+
+<p align="left">
+  <a href="README.md" target="_top">
+    ⬅️ <b>[Retour au Profil Principal]</b>
+  </a>
+</p>
+
+---
+
 # 📊 Dashboard de Performance Commerciale de MAP | Power BI
 
 ## 📖 Présentation
@@ -15,6 +28,17 @@ MAP est une entreprise spécialisée dans la vente de téléphones mobiles, smar
 Grâce à un réseau de magasins répartis dans plusieurs villes du pays, l'entreprise commercialise différents modèles de téléphones tout en assurant le suivi des performances de ses équipes commerciales.
 
 Pour accompagner sa croissance, MAP souhaitait disposer d'un outil de pilotage permettant de suivre efficacement les ventes, les objectifs commerciaux et les performances des différents points de vente.
+
+---
+
+## 📷 Aperçu du Dashboard (Rapport Power BI)
+
+<p align="center">
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Image3.jpg?raw=true" 
+       width="900" alt="Dashboard de Performance Commerciale MAP">
+</p>
+
+<p align="center"><i>⬇️ Détails des objectifs, de la modélisation et des analyses ci-dessous ⬇️</i></p>
 
 ---
 
@@ -56,19 +80,6 @@ Le dashboard permet notamment de suivre :
 - 🚻 Répartition des ventes par genre
 - 📅 Évolution quotidienne des ventes
 - 🔍 Filtres interactifs (Ville, Ligne, Type de magasin)
-
----
-
-## 📷 Aperçu du Dashboard
-
-> *Ajouter ici une capture d'écran du tableau de bord.*
-
-
-<p align="center">
-  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/Image3.jpg?raw=true" 
-       width="900">
-</p>
-
 
 ---
 
@@ -126,41 +137,15 @@ Grâce à ce tableau de bord, les responsables commerciaux peuvent :
 - Analyser les ventes selon plusieurs dimensions.
 - Améliorer la prise de décision grâce aux données.
 
----
 
-# 📂 Structure du projet
-
-```text
-📁 MAP-Sales-Dashboard
-│
-├── 📁 Data
-│   ├── ventes.xlsx
-│   └── dimensions.xlsx
-│
-├── 📁 Dashboard
-│   └── MAP_Sales_Dashboard.pbix
-│
-├── 📁 Images
-│   └── dashboard.png
-│
-├── README.md
-└── LICENSE
-```
-
----
 
 # 📚 Technologies
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Business%20Intelligence-4B0082?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-4B0082?style=for-the-badge" alt="BI"/>
 </p>
 
 ---
@@ -170,3 +155,11 @@ Grâce à ce tableau de bord, les responsables commerciaux peuvent :
 Ce projet illustre ma capacité à concevoir un tableau de bord décisionnel complet, depuis la préparation des données jusqu'à la création de visualisations interactives et de KPI pertinents.
 
 L'utilisation de **Power Query**, **DAX** et **Power BI** a permis de transformer des données commerciales en un outil d'aide à la décision moderne, intuitif et orienté métier.
+
+---
+
+<p align="center">
+  <a href="README.md" target="_top">
+    🏁 <b>[Retour au Profil Principal]</b>
+  </a>
+</p>
