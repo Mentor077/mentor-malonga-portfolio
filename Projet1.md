@@ -34,6 +34,28 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ---
 
+## 🎨 Les 2 Vues Déployées (Aperçu du Rapport Power BI)
+
+### 📊 Vue 1 — Le Dashboard Général
+<p align="center">
+  <img src="https://github.com" 
+       width="900" alt="Dashboard Général - MAP Transport">
+</p>
+
+> Cette première vue offre un pilotage macro-économique global. Elle met en évidence la trajectoire des revenus annuels, la performance brute par type de prestation (Air, Sea, Road, River) ainsi que la concentration des parts de marché du Top 3 des compagnies clientes.
+
+---
+
+### 📈 Vue 2 — Le Tableau de Détail des Indicateurs
+<p align="center">
+  <img src="https://github.com" 
+       width="900" alt="Tableau de Détail des Indicateurs - MAP Transport">
+</p>
+
+> Cette seconde vue est orientée sur le diagnostic des volumes financiers. Elle segmente de manière croisée les montants prospectés, confirmés, perdus et en attente afin d'identifier avec précision quelles structures ou destinations génèrent les plus fortes pertes commerciales.
+
+---
+
 ## 2️⃣ Détail du Travail Réalisé
 
 Le projet s'est déroulé en plusieurs phases clés :
@@ -71,7 +93,7 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 ### 📈 Performance Globale
 - 💰 **Revenu total confirmé :** 1.22 Md FCFA.
 - 📨 **637 factures émises** pour **263 confirmées**, soit un taux de conversion d'environ **41 %**.
-- 🏆 **86 clients officiellement gagnés** sur un portefeuille de 120 compagnies prospectées.
+- 🏆 **86 clients gagnés** sur un portefeuille de 120 compagnies prospectées.
 
 ### ⚠️ Diagnostic des Pertes Commerciales
 - 💸 **Montant perdu (1.93 Md FCFA) :** Supérieur aux gains confirmés, révélant une fuite importante lors du tunnel de conversion.
@@ -91,32 +113,8 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 
 ---
 
-## 🎨 Rapport Power BI — Les 2 Vues Déployées
-
-### 📊 Vue 1 — Le Dashboard Général
-
 <p align="center">
-  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-first.jpg?raw=true" 
-       width="900" alt="Dashboard Général - MAP Transport">
-</p>
-
-> Cette première vue offre un pilotage macro-économique global. Elle met en évidence la trajectoire des revenus annuels, la performance brute par type de prestation (Air, Sea, Road, River) ainsi que la concentration des parts de marché du Top 3 des compagnies clientes.
-
----
-
-### 📈 Vue 2 — Le Tableau de Détail des Indicateurs
-
-<p align="center">
-  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-second.jpg?raw=true" 
-       width="900" alt="Tableau de Détail des Indicateurs - MAP Transport">
-</p>
-
-> Cette seconde vue est orientée sur le diagnostic des volumes financiers. Elle segmente de manière croisée les montants prospectés, confirmés, perdus et en attente afin d'identifier avec précision quelles structures ou destinations génèrent les plus fortes pertes commerciales.
-
----
-
-<p align="center">
-  <a href="https://github.com/Mentor077/Mentor077">
+  <a href="https://github.com">
     🏁 <b>[Retour au Profil Principal]</b>
   </a>
 </p>
