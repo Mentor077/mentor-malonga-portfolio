@@ -5,11 +5,11 @@ title: MAP Transport Performance Dashboard
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- Colonne Gauche : Utilisation d'un émoji natif pour éviter les blocages de serveur -->
-    <td valign="middle" width="50">
-      <h1>📊</h1>
+    <!-- Colonne Gauche : Ton image locale chargée automatiquement -->
+    <td valign="middle" width="70">
+      <img src="image_projet1.jpg" alt="Logo Projet" width="55" height="55" style="border-radius: 8px;">
     </td>
-    <!-- Colonne Droite : Titre parfaitement aligné -->
+    <!-- Colonne Droite : Ton Titre parfaitement aligné horizontalement -->
     <td valign="middle">
       <h1>MAP Transport Performance Dashboard</h1>
     </td>
