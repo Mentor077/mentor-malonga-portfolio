@@ -132,7 +132,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 <p align="left">
   <a href="https://github.com" target="_blank">
-    <img src="https://shields.io🔗__Rejoindre__le__Projet__3-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Lien Projet 3">
+    <img src="https://shields.io🔗__Rejoindre__le__Projet__3-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Projet2">
   </a>
 </p>
 
