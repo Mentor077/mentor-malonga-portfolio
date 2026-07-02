@@ -68,14 +68,14 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ### 🚀 Projets Majeurs Réalisés
 
 <p align="center">
-  <a href="#projet1">
-    <img src="https://shields.io🔥_PROJET_1_DÉPLOYÉ-8B4513?style=for-the-badge" alt="Projet 1">
+  <a href="#pro-1">
+    <img src="https://shields.io🔥__PROJET__1__DÉPLOYÉ-8B4513?style=for-the-badge" alt="Projet 1">
   </a>
-  <a href="#projet2">
-    <img src="https://shields.io🔥_PROJET_2_DÉPLOYÉ-5C4033?style=for-the-badge" alt="Projet 2">
+  <a href="#pro-2">
+    <img src="https://shields.io🔥__PROJET__2__DÉPLOYÉ-5C4033?style=for-the-badge" alt="Projet 2">
   </a>
-  <a href="#Projet3">
-    <img src="https://shields.io🔥_PROJET_3_DÉPLOYÉ-8B4513?style=for-the-badge" alt="Projet 3">
+  <a href="#pro-3">
+    <img src="https://shields.io🔥__PROJET__3__DÉPLOYÉ-8B4513?style=for-the-badge" alt="Projet 3">
   </a>
 </p>
 
@@ -136,9 +136,17 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ### 📬 Me Contacter
 
-*   💼 **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
-*   💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
-*   📧 **Email :** mentormalonga17@gmail.com
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.ioLinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me" target="_blank">
+    <img src="https://shields.ioWhatsApp-5C4033?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:mentormalonga17@gmail.com">
+    <img src="https://shields.ioEmail-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 <p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
