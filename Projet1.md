@@ -1,4 +1,8 @@
 ---
+←️ [**Retour au Profil Principal**](README.md)
+
+---
+
 layout: default
 title: MAP Transport Performance Dashboard
 ---
@@ -18,13 +22,7 @@ title: MAP Transport Performance Dashboard
 
 > 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
 
-<p align="left">
-  <a href="./README.md">
-    🏁 <b>[Retour au Profil Principal]</b>
-  </a>
-</p>
-
----
+ 
 
 ## 1️⃣ Introduction du Projet
 
