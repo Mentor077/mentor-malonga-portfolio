@@ -1,7 +1,3 @@
----
-←️ [**Retour au Profil Principal**](README.md)
-
----
 
 layout: default
 title: MAP Transport Performance Dashboard
