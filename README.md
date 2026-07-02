@@ -28,13 +28,6 @@
 
 Professionnel de la donnée issu d'un parcours académique rigoureux en **Électronique**, je cumule plus de 6 ans d'expérience stratégique (depuis 2020) au sein de **Tecno Mobile**.
 
-
----
-
-### 🎯 Profil Professionnel
-
-Professionnel de la donnée issu d'un parcours académique rigoureux en **Électronique**, je cumule plus de 6 ans d'expérience stratégique (depuis 2020) au sein de **Tecno Mobile**.
-
 Mon profil combine une expertise technique de pointe en traitement de données massives (**PySpark, Python Pandas, SQL**) et une solide expérience managériale de terrain en tant que **Channel Supervisor** et **Sales Representative (SR)** pendant 2 ans. Cette double compétence me permet de piloter la planification de projets complexes (**MS Project**), d'optimiser les inventaires, de concevoir des KPIs stratégiques et de piloter la performance de réseaux de distribution d'envergure.
 
 ---
@@ -73,44 +66,17 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
 #### 📊 1. Business Intelligence – Transport Logistics Dashboard (2021 - 2024)
-
-> Conception d'un tableau de bord interactif Power BI permettant de suivre les performances commerciales, les prospects, les revenus, les pertes et les principaux indicateurs (KPIs) d'une entreprise de transport de 2021 à 2024 afin de faciliter la prise de décision.
-
-| Élément | Détail |
-|---------|--------|
-| **Problématique** | Centraliser et analyser 3 ans de flux financiers et logistiques dispersés pour une entreprise de transport |
-| **Solution** | Modélisation des tables de faits, nettoyage des données et conception d'indicateurs visuels de pertes et profits |
-| **Impact** | Visibilité instantanée sur les lignes les plus rentables et réduction des pertes opérationnelles |
-
 👉 [**Consulter la page complète du Projet 1 (Transport Logistics Dashboard)**](./Projet1.md)
 
 ---
 
 #### 📊 2. Marketing Analytics & Commercial Sales Performance Tracker (Tecno Mobile)
-
-> Étude approfondie du marché et suivi rigoureux des performances commerciales de janvier avec un taux de réalisation des objectifs de 127 % (1 922 ventes pour un objectif de 1 515) détaillant la répartition des ventes par superviseur, modèle de téléphone, marché local (Brazzaville, Pointe-Noire, Dolisie, Ouesso, Oyo) et type de boutique.
-
-| Élément | Détail |
-|---------|--------|
-| **Problématique** | Consolider et unifier des données de ventes massives et hétérogènes pour analyser l'impact marketing et la performance du réseau |
-| **Solution** | Mise en œuvre d'un processus **ETL complet** (Extraction, Transformation, Chargement) avec **PySpark** et **Pandas** pour nettoyer les données, puis modélisation des rapports de suivi des ventes sur **Power BI** |
-| **Impact** | Atteinte de 127% de l'objectif mensuel, visibilité en temps réel sur la demande par ville et optimisation des décisions de réapprovisionnement terrain |
-
-👉 [**Consulter la page complète du Projet 2 (Marketing Analytics Tracker)**](https://github.com)
+👉 [**Consulter la page complète du Projet 2 (Marketing Analytics Tracker)**](./Projet2.md)
 
 ---
 
 #### 🎓 3. Educational Market Analysis & Strategic Ingestion Dashboard
-
-> Tableau de bord analytique d'aide à la décision conçu sur Power BI, offering une vue d'ensemble sur les résultats du Baccalauréat congolais 2024 avec le suivi de 39 876 élèves diplômés répartis à travers 703 établissements scolaires, tout en analysant l'âge moyen (21 ans), la moyenne des notes (11,46/20), le genre et les mentions obtenues.
-
-| Élément | Détail |
-|---------|--------|
-| **Problématique** | Traiter, segmenter et auditer un volume massif de données pour évaluer la répartition territoriale des performances de réussite |
-| **Solution** | Ingestion de gros volumes de données élèves, classification par canal (Public vs Privé vs Candidat libre) et suivi rigoureux des moyennes et mentions par session |
-| **Impact** | Cartographie stratégique de la performance par établissement et par tranche d'âge, facilitant l'évaluation macro-analytique |
-
-👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](https://github.com)
+👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](./Projet3.md)
 
 ---
 
