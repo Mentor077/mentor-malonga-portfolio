@@ -231,7 +231,7 @@ L'exploration visuelle de la donnée a révélé des opportunités et des points
 ---
 
 <p align="center">
-  <a href="https://github.com/Mentor077/Mentor077">
+  <a href="README.md">
     🏁 <b>[Retour au Profil Principal]</b>
   </a>
 </p>
