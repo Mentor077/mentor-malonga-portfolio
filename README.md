@@ -92,7 +92,11 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Modélisation des tables de faits, nettoyage des données et conception d'indicateurs visuels de pertes et profits |
 | **Impact** | Visibilité instantanée sur les lignes les plus rentables et réduction des pertes opérationnelles |
 
-*Outils clés utilisés : Power BI, Excel Advanced, Data Modeling*
+<p align="left">
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io🔗__Rejoindre__le__Projet__1-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Lien Projet 1">
+  </a>
+</p>
 
 ---
 
@@ -107,7 +111,11 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Mise en œuvre d'un processus **ETL complet** (Extraction, Transformation, Chargement) avec **PySpark** et **Pandas** pour nettoyer les données, puis modélisation des rapports de suivi des ventes sur **Power BI** |
 | **Impact** | Atteinte de 127% de l'objectif mensuel, visibilité en temps réel sur la demande par ville et optimisation des décisions de réapprovisionnement terrain |
 
-👉 [Voir le Code du Projet](https://github.com)
+<p align="left">
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io🔗__Rejoindre__le__Projet__2-5C4033?style=for-the-badge&logo=github&logoColor=white" alt="Lien Projet 2">
+  </a>
+</p>
 
 ---
 
@@ -122,7 +130,11 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 | **Solution** | Ingestion de gros volumes de données élèves, classification par canal (Public vs Privé vs Candidat libre) et suivi rigoureux des moyennes et mentions par session |
 | **Impact** | Cartographie stratégique de la performance par établissement et par tranche d'âge, facilitant l'évaluation macro-analytique |
 
-*Outils clés utilisés : Power BI, Advanced Analytics, Data Segmentation*
+<p align="left">
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io🔗__Rejoindre__le__Projet__3-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Lien Projet 3">
+  </a>
+</p>
 
 ---
 
