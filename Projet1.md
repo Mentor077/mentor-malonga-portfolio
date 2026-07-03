@@ -4,7 +4,7 @@ title: MAP Transport Performance Dashboard
 ---
 
 <p align="left">
-  <a href="https://github.com" target="_top">
+  <a href="readme" target="_top">
     ⬅️ <b>[Retour au Profil Principal]</b>
   </a>
 </p>
