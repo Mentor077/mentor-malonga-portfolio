@@ -1,21 +1,18 @@
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <!-- Colonne Gauche : Photo de profil alignée verticalement -->
-    <td valign="top" width="190">
-      <img src="Mentor.jpg" alt="Mentor Malonga" width="180" height="180" style="border-radius: 10px; object-fit: cover;">
-    </td>
-    <!-- Colonne Droite : Titres et Informations clés sur la même ligne -->
-    <td valign="top">
-      <h1>⚡ Mentor MALONGA ⚡</h1>
-      <h2><b>Data Analyst Senior & Channel Supervisor</b></h2>
-      <p><i>Expert Big Data, BI & Opérations Retail</i></p>
-      <p>
-        💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp; 👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp; 🏢 <b>Entreprise :</b> Tecno Mobile  <br>
-        📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp; 🟢 <b>Statut :</b> Disponible &nbsp;|&nbsp; 📈 <b>Expérience :</b> +6 ans
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="Mentor.jpg" alt="Mentor MALONGA" width="180" height="180" style="border-radius: 10px;">
+</p>
+
+<h1 align="center">Mentor MALONGA</h1>
+<h3 align="center">Data Analyst Senior & Channel Supervisor</h3>
+<p align="center"><b>Expert Big Data, BI & Opérations Retail</b></p>
+
+<p align="center">
+  Expertise : Big Data & BI | Management : Channel Supervisor | Entreprise : Tecno Mobile
+</p>
+
+<p align="center">
+  Localisation : Congo Brazzaville | Statut : Disponible | Expérience : +6 ans
+</p>
 
 ---
 
@@ -31,9 +28,9 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 ### 📊 Matrice de Valeur Ajoutée (Core Value)
 
-| 📈 STRATÉGIE & DISTRIBUTION | 📦 BIG DATA & ANALYTICS | 🎯 PILOTAGE DE PROJETS |
+| STRATÉGIE & DISTRIBUTION | BIG DATA & ANALYTICS | PILOTAGE DE PROJETS |
 | :--- | :--- | :--- |
-| • **Channel Supervision** (2 ans)<br>• Management d'équipes de vente (SR)<br>• Suivi de la performance du réseau | • Traitement de données avec **PySpark**<br>• Manipulation avec **Python Pandas**<br>• Modélisation et requêtage **SQL** | • Planification sur **MS Project**<br>• Modélisation de KPIs & Benchmarks<br>• Gestion & Audit des inventaires |
+| • Channel Supervision (2 ans)<br>• Management d'équipes de vente (SR)<br>• Suivi de la performance du réseau | • Traitement de données avec PySpark<br>• Manipulation avec Python Pandas<br>• Modélisation et requêtage SQL | • Planification sur MS Project<br>• Modélisation de KPIs & Benchmarks<br>• Gestion & Audit des inventaires |
 
 ---
 
@@ -48,7 +45,7 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 ### 🚀 Projets Majeurs Réalisés
 
-> 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
+> "Chaque projet est une opportunité de transformer les données en impact mesurable."
 
 * 📊 **[1. Transport Logistics Dashboard (MAP Transport)](./Projet1.md)**  
   *Analyse de la performance commerciale & logistique (2021-2024)*
@@ -63,9 +60,9 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 ### 🎖️ Certifications Principales
 
-* 🥇 **Google Data Analytics Professional Certificate** — Coursera
-* 📊 **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
-* 🐍 **Big Data Foundations with Apache Spark** — IBM
+* **Google Data Analytics Professional Certificate** — Coursera
+* **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
+* **Big Data Foundations with Apache Spark** — IBM
 
 ---
 
