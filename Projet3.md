@@ -14,7 +14,7 @@ title: Congolese Examen (BAC) Report Of 2024
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle" width="70">
-      <img src="https://shields.io🎓__BAC-2024-8B4513?style=for-the-badge" width="55" height="55" style="border-radius: 8px;">
+      <img src="bac.jpg" width="55" height="55" style="border-radius: 8px;">
     </td>
     <td valign="middle">
       <h1>Congolese Examen (BAC) Report Of 2024</h1>
