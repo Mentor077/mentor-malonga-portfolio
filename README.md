@@ -76,7 +76,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 ---
 
 #### 🎓 3. Analyse et Interpetation des resultats du BAC 2024
-👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](./Projet3.md)
+👉 [**Consulter la page complète du Projet 3 (Congolese Examen (BAC) Report Of 2024)**](./Projet3.md)
 
 ---
 
