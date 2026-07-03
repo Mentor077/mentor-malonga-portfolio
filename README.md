@@ -66,7 +66,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
 #### 📊 1. Business Intelligence – Transport Logistics Dashboard (2021 - 2024)
-👉 [**Consulter la page complète du Projet 1 (Transport Logistics Dashboard)**](./Projet1.md)
+👉 [**Consulter la page complète du Projet 1 (MAP Transport Performance Dashboard)**](./Projet1.md)
 
 ---
 
