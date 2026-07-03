@@ -2,7 +2,7 @@
   <tr>
     <!-- Colonne Gauche : Photo de profil à la racine -->
     <td valign="top" width="220">
-      <img src="malonga.jpg" alt="Mentor Malonga" width="700" height="700" style="border-radius: 10px;">
+      <img src="malonga.jpg" alt="Mentor Malonga" width="1000" height="1000" style="border-radius: 10px;">
     </td>
     <!-- Colonne Droite : Titres et Informations clés -->
     <td valign="top">
