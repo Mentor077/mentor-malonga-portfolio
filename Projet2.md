@@ -3,6 +3,9 @@ layout: default
 title: Dashboard de Performance Commerciale de MAP
 ---
 
+[⬅️ **Retour au Profil Principal**](README.md)
+
+---
 <p align="left">
   <a href="README.md" target="_top">
     ⬅️ <b>[Retour au Profil Principal]</b>
