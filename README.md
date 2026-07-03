@@ -2,7 +2,7 @@
   <tr>
     <!-- Colonne Gauche : Photo de profil à la racine -->
     <td valign="top" width="220">
-      <img src="malonga.jpg" alt="Mentor Malonga" width="225" height="225" style="border-radius: 10px;">
+      <img src="Mentor.jpg" alt="Mentor Malonga" width="200" height="200" style="border-radius: 10px;">
     </td>
     <!-- Colonne Droite : Titres et Informations clés -->
     <td valign="top">
@@ -66,7 +66,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
 #### 📊 1. Business Intelligence – Transport Logistics Dashboard (2021 - 2024)
-👉 [**Consulter la page complète du Projet 1 (MAP Transport Performance Dashboard)**](./Projet1.md)
+👉 [**Consulter la page complète du Projet 1 (Transport Logistics Dashboard)**](./Projet1.md)
 
 ---
 
@@ -75,8 +75,8 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ---
 
-#### 🎓 3. Analyse et Interpetation des resultats du BAC 2024
-👉 [**Consulter la page complète du Projet 3 (Congolese Examen (BAC) Report Of 2024)**](./Projet3.md)
+#### 🎓 3. Educational Market Analysis & Strategic Ingestion Dashboard
+👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](./Projet3.md)
 
 ---
 
@@ -90,11 +90,9 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ### 📬 Me Contacter
 
-*   💼 **LinkedIn :** [linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)
+*   💼 **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
 *   💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
 *   📧 **Email :** mentormalonga17@gmail.com
-*   📧 **Email :** malongamenthor@gmail.com
-
 
 ---
 <p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
