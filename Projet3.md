@@ -3,11 +3,7 @@ layout: default
 title: Congolese Examen (BAC) Report Of 2024
 ---
 
-<p align="left">
-  <a href="README.md" target="_top">
-    ⬅️ <b>[Retour au Profil Principal]</b>
-  </a>
-</p>
+[⬅️ **Retour au Profil Principal**](README.md)
 
 ---
 
