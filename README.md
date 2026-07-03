@@ -6,7 +6,7 @@
     </td>
     <!-- Colonne Droite : Titres et présentations alignés sur la même ligne -->
     <td valign="top">
-      <h1>⚡ Mentor MALONGA ⚡</h1>
+      <h1 style="margin-top: 0;">⚡ Mentor MALONGA ⚡</h1>
       <h2><b>Data Analyst Senior & Channel Supervisor</b></h2>
       <p><i>Expert Big Data, BI & Opérations Retail</i></p>
       <p>
