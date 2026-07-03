@@ -1,15 +1,21 @@
-<div align="center">
-
-  <img src="Mentor.jpg" alt="Mentor Malonga" width="180" height="180">
-
-  # ⚡ Mentor MALONGA ⚡
-  ### **Data Analyst Senior & Channel Supervisor**
-  *Expert Big Data, BI & Opérations Retail*
-
-  💼 **Expertise :** Big Data & BI &nbsp;|&nbsp; 👥 **Management :** Channel Supervisor &nbsp;|&nbsp; 🏢 **Entreprise :** Tecno Mobile  
-  📍 **Localisation :** Congo Brazzaville &nbsp;|&nbsp; 🟢 **Statut :** Disponible &nbsp;|&nbsp; 📈 **Expérience :** +6 ans
-
-</div>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <!-- Colonne Gauche : Photo de profil alignée verticalement -->
+    <td valign="top" width="190">
+      <img src="Mentor.jpg" alt="Mentor Malonga" width="180" height="180" style="border-radius: 10px; object-fit: cover;">
+    </td>
+    <!-- Colonne Droite : Titres et Informations clés sur la même ligne -->
+    <td valign="top">
+      <h1>⚡ Mentor MALONGA ⚡</h1>
+      <h2><b>Data Analyst Senior & Channel Supervisor</b></h2>
+      <p><i>Expert Big Data, BI & Opérations Retail</i></p>
+      <p>
+        💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp; 👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp; 🏢 <b>Entreprise :</b> Tecno Mobile  <br>
+        📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp; 🟢 <b>Statut :</b> Disponible &nbsp;|&nbsp; 📈 <b>Expérience :</b> +6 ans
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,9 +71,9 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 ### 📬 Me Contacter
 
-* 💼 **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com)
+* 💼 **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
 * 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me/242069776995)
 * 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
 
 ---
-<p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
+<p align="center">Conçu avec precision • Mentor Malonga © 2026</p>
