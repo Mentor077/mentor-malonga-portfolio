@@ -4,7 +4,7 @@ title: MAP Transport Performance Dashboard
 ---
 
 <p align="left">
-  <a href="README.md" target="_top">
+  <a href="https://github.com" target="_top">
     ⬅️ <b>[Retour au Profil Principal]</b>
   </a>
 </p>
@@ -97,7 +97,7 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 ---
 
 <p align="center">
-  <a href="README.md" target="_top">
+  <a href="https://github.com" target="_top">
     🏁 <b>[Retour au Profil Principal]</b>
   </a>
 </p>
