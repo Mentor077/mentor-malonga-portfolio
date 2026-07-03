@@ -72,8 +72,8 @@ Cette double compétence me permet de piloter la planification de projets comple
 ### 📬 Me Contacter
 
 * 💼 **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
-* 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me/242069776995)
+* 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
 * 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
 
 ---
-<p align="center">Conçu avec precision • Mentor Malonga © 2026</p>
+<p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
