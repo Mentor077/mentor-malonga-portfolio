@@ -39,7 +39,11 @@ L'objectif principal était de consolider des bases de données étatiques massi
 ## 🎨 Aperçu du Dashboard Déployé
 
 <p align="center">
-  <img src="image_RRkEGX.png" width="900" alt="Dashboard Résultats BAC 2024 - Mentor Malonga">
+  <img src="bac1.jpg" width="900" alt="Dashboard Résultats BAC 2024 - Mentor Malonga">
+</p> 
+
+<p align="center">
+  <img src="bac.jpg" width="900" alt="Dashboard Résultats BAC 2024 - Mentor Malonga">
 </p>
 
 > *Note : Pour l'affichage sur votre dépôt GitHub, assurez-vous de nommer l'image de ce projet `Projet3.jpg` (ou d'utiliser le nom exact du fichier présent dans votre répertoire) et de modifier l'extension si nécessaire.*
