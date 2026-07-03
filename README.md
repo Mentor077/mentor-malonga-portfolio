@@ -75,7 +75,7 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ---
 
-#### 🎓 3. Educational Market Analysis & Strategic Ingestion Dashboard
+#### 🎓 3. Analyse et Interpetation des resultats du BAC 2024
 👉 [**Consulter la page complète du Projet 3 (Educational Market Analysis)**](./Projet3.md)
 
 ---
@@ -90,9 +90,11 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ### 📬 Me Contacter
 
-*   💼 **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
+*   💼 **LinkedIn :** [linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)
 *   💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
 *   📧 **Email :** mentormalonga17@gmail.com
+*   📧 **Email :** malongamenthor@gmail.com
+
 
 ---
 <p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
