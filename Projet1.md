@@ -3,26 +3,13 @@ layout: default
 title: MAP Transport Performance Dashboard
 ---
 
-<p align="left">
-  <a href="README.md" target="_top">
-    ⬅️ <b>[Retour au Profil Principal]</b>
-  </a>
-</p>
+[⬅️ **Retour au Profil Principal**](README.md)
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="middle" width="70">
-      <img src="image_projet1.jpg" alt="Logo Projet" width="55" height="55" style="border-radius: 8px;">
-    </td>
-    <td valign="middle">
-      <h1>MAP Transport Performance Dashboard</h1>
-    </td>
-  </tr>
-</table>
+# MAP Transport Performance Dashboard
 
-> 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
+> Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
 
 ---
 
@@ -36,16 +23,16 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ---
 
-## 🎨 Les 2 Vues Déployées (Aperçu du Rapport Power BI)
+## Les 2 Vues Déployées (Aperçu du Rapport Power BI)
 
-### 📊 Vue 1 — Le Dashboard Général
+### Dashboard Général
 <p align="center">
   <img src="map-first.jpg" width="900" alt="Dashboard Général - MAP Transport">
 </p>
 
 ---
 
-### 📈 Vue 2 — Le Tableau de Détail des Indicateurs
+### Tableau de Détail des Indicateurs
 <p align="center">
   <img src="map-second.jpg" width="900" alt="Tableau de Détail des Indicateurs - MAP Transport">
 </p>
@@ -54,15 +41,15 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ## 2️⃣ Détail du Travail Réalisé
 
-### 🔹 Collecte & Préparation des données (ETL)
+### Collecte & Préparation des données (ETL)
 - Importation des bases de données de facturation, prospects et clients.
 - Nettoyage rigoureux sous Power Query.
 
-### 🔹 Modélisation Relationnelle
+### Modélisation Relationnelle
 - Création du modèle de données en étoile.
 
-### 🔹 Conception des Indicateurs Métier (DAX)
-- Modélisation de **8 KPIs stratégiques** en langage DAX.
+### Conception des Indicateurs Métier (DAX)
+- Modélisation de 8 KPIs stratégiques en langage DAX.
 
 ---
 
@@ -78,12 +65,12 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ## 4️⃣ Analyse & Insights Stratégiques
 
-### 📈 Performance Globale
-- 💰 **Revenu total confirmé :** 1.22 Md FCFA.
-- 📨 **637 factures émises** pour **263 confirmées**, soit un taux de conversion d'environ **41 %**.
+### Performance Globale
+- Revenu total confirmé : 1.22 Md FCFA.
+- 637 factures émises pour 263 confirmées, soit un taux de conversion d'environ 41 %.
 
-### ⚠️ Diagnostic des Pertes Commerciales
-- 💸 **Montant perdu :** 1.93 Md FCFA.
+### Diagnostic des Pertes Commerciales
+- Montant perdu : 1.93 Md FCFA.
 
 ---
 
@@ -91,13 +78,11 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 | Problème identifié | Solution proposée |
 |--------------------|-------------------|
-| 💸 Pertes commerciales élevées | Mettre en place un audit systématique des motifs de refus |
-| ⏳ 390 M FCFA en attente | Automatiser les alertes de relance |
+| Pertes commerciales élevées | Mettre en place un audit systématique des motifs de refus |
+| Volume en attente important | Automatiser les alertes de relance |
 
 ---
 
 <p align="center">
-  <a href="https://github.com" target="_top">
-    🏁 <b>[Retour au Profil Principal]</b>
-  </a>
+  [🏁 **Retour au Profil Principal**](README.md)
 </p>
