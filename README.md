@@ -14,7 +14,7 @@
         ⚡ Mentor MALONGA ⚡
       </h1>
       <h2 style="margin: 0 0 8px 0; color: #555; font-size: 19px; line-height: 1.2;">
-        <b>Data Analyst Senior &amp; Channel Supervisor</b>
+        <b>Senior Data Analyst &amp; Channel Supervisor</b>
       </h2>
       <p style="margin: 0 0 12px 0; color: #777; font-size: 15px;">
         <i>Expert Big Data, BI &amp; Opérations Retail</i>
