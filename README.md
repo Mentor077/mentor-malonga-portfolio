@@ -1,3 +1,6 @@
+Voici ton code avec uniquement l’erreur corrigée :
+
+
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <!-- Colonne Gauche : Photo de profil alignée par le haut -->
@@ -71,9 +74,10 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 ### 📬 Me Contacter
 
-* 💼 **LinkedIn :** [://linkedin.com]([https://www.://linkedin.com](https://www.linkedin.com/in/mentor-malonga))
-* 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
+* 💼 **LinkedIn :** [https://www.linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)
+* 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me/242069776995)
 * 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
 
 ---
 <p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
+```
