@@ -3,7 +3,7 @@
     <!-- Colonne Image : Centrée horizontalement et alignée en haut -->
     <td valign="top" align="center" width="260" style="padding-right: 20px;">
       <img src="malonga.jpg" alt="Mentor MALONGA"
-           style="width: 220px; height: 220px; border-radius: 20px; object-fit: cover; display: block; margin: 0 auto;">
+           style="width: 210px; height: 210px; border-radius: 20px; object-fit: cover; display: block; margin: 0 auto;">
     </td>
 
     <!-- Colonne Texte : Alignée en haut -->
