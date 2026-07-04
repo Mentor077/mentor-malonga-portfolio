@@ -88,8 +88,4 @@ L'exploration visuelle de la donnée à travers l'interface met en évidence des
 
 ---
 
-<p align="center">
-  <a href="README.md" target="_top">
-    🏁 <b>[Retour au Profil Principal]</b>
-  </a>
-</p>
+[⬅️ **Retour au Profil Principal**](README.md) [➡️ **Retour au Profil_1 Principal**](Projet1.md) [➡️ **Retour au Profil Principal_2**](Projet2.md)
