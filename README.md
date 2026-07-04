@@ -3,16 +3,16 @@
     <!-- Colonne Image : Centrée horizontalement et alignée en haut -->
     <td valign="top" align="center" width="260" style="padding-right: 20px;">
       <img src="malonga.jpg" alt="Mentor MALONGA"
-           style="width: 210px; height: 210px; border-radius: 20px; object-fit: cover; display: block; margin: 0 auto;">
+           style="width: 210px; height: 260px; border-radius: 20px; object-fit: contain; display: block; margin: 0 auto;">
     </td>
 
     <!-- Colonne Texte : Alignée en haut -->
     <td valign="top">
       <h1 style="margin: 0 0 5px 0; color: #333;">⚡ Mentor MALONGA ⚡</h1>
-      <h2 style="margin: 0 0 5px 0; color: #555;"><b>Data Analyst Senior & Channel Supervisor</b></h2>
-      <p style="margin: 0 0 15px 0; color: #777;"><i>Expert Big Data, BI & Opérations Retail</i></p>
+      <h2 style="margin: 0 0 5px 0; color: #555;"><b>Data Analyst Senior &amp; Channel Supervisor</b></h2>
+      <p style="margin: 0 0 15px 0; color: #777;"><i>Expert Big Data, BI &amp; Opérations Retail</i></p>
       <p style="margin: 0; line-height: 1.6; font-size: 14px;">
-        💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp;
+        💼 <b>Expertise :</b> Big Data &amp; BI &nbsp;|&nbsp;
         👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp;
         🏢 <b>Entreprise :</b> Tecno Mobile<br>
         📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp;
