@@ -1,6 +1,6 @@
 [⬅️ **Retour au Profil Principal**](README.md)
 
-# MAP Transport Performance Dashboard
+# Transport & Logistics Performance Dashboard (MAP SALE)
 
 > **Tableau de bord décisionnel** — Analyse de performance commerciale et logistique (2021-2024)
 
