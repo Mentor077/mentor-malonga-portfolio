@@ -67,7 +67,7 @@ Cette double compétence me permet de piloter la planification de projets comple
 * 📊 **[1. Transport & Logistics Performance Dashboard (MAP SALE)](./Projet1.md)**  
   *Analyse de la performance commerciale et logistique (2021-2024)*
 
-* 📊 **[2. Tableau de bord de performance commerciale | Power BI (MAP SALE)](./Projet2.md)**  
+* 📊 **[2. Tableau de bord de performance commerciale | Power BI (MAP)](./Projet2.md)**  
   *Pilotage de la performance commerciale et suivi des ventes*
 
 * 🎓 **[3. Republic of the Congo Baccalaureate Report 2024](./Projet3.md)**  
