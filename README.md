@@ -56,10 +56,10 @@ Cette double compétence me permet de piloter la planification de projets comple
 * 📊 **[1. Transport Logistics Dashboard (MAP Transport)](./Projet1.md)**  
   *Analyse de la performance commerciale & logistique (2021-2024)*
 
-* 📊 **[2. Marketing Analytics & Sales Tracker (Te)](./Projet2.md)**  
+* 📊 **[2. Dashboard de Performance Commerciale de MAP | Power BI (MAP SALE)](./Projet2.md)**  
   *Pilotage de la performance commerciale et suivi des ventes*
 
-* 🎓 **[3. Educational Market Analysis & Strategic Ingestion Dashboard](./Projet3.md)**  
+* 🎓 **[3. Congolese Examen (BAC) Report Of 2024](./Projet3.md)**  
   *Analyse stratégique du marché de l'éducation*
 
 ---
