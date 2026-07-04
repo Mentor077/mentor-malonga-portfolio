@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Congolese Examen (BAC) Report Of 2024
+title: Republic of Congo BAC 2024 Report
 ---
 
-[⬅️ **Retour au Profil Principal**](README.md)
+[⬅️ **Back to Main Profile**](README.md)
 
 ---
 
@@ -13,79 +13,83 @@ title: Congolese Examen (BAC) Report Of 2024
       <img src="1.jpg" width="55" height="55" style="border-radius: 8px;">
     </td>
     <td valign="middle">
-      <h1>Congolese Examen (BAC) Report Of 2024</h1>
+      <h1>Republic of Congo BAC 2024 Report</h1>
     </td>
   </tr>
 </table>
 
-> 📊 Ingestion de gros volumes de données, sectorisation macro-éducative et analyse statistique des résultats officiels du Baccalauréat Congolais.
+> 📊 Large-scale data ingestion, macro-educational segmentation, and statistical analysis of official Baccalaureate results in the Republic of Congo.
 
 ---
 
-## 1️⃣ Introduction du Projet
+## 1️⃣ Project Overview
 
-Ce projet consiste en la modélisation et la conception d'une solution décisionnelle complète sous **Power BI** pour analyser les résultats officiels du **Baccalauréat en République du Congo (Session 2024)**. 
+This project focuses on the design and development of a complete **Power BI analytical solution** to evaluate the official **Baccalaureate (BAC) results in the Republic of Congo (2024 session)**.
 
-L'objectif principal était de consolider des bases de données étatiques massives afin de fournir une cartographie claire de la réussite scolaire, d'isoler les performances selon le statut des établissements et de dresser un profil démographique rigoureux des bacheliers.
+The main objective was to consolidate large-scale governmental datasets in order to provide a clear mapping of academic success, analyze performance by institution type, and build a detailed demographic profile of graduates.
 
-🎯 **Objectif :** Transformer des données publiques brutes en indicateurs stratégiques pour auditer l'efficacité du système éducatif national.
+🎯 **Objective:** Transform raw public data into actionable insights to assess the effectiveness of the national education system.
 
 ---
 
-## 🎨 Aperçu du Dashboard Déployé
+## 🎨 Dashboard Overview
 
 <p align="center">
-  <img src="bac1.jpg" width="900" alt="Dashboard Résultats BAC 2024 - Mentor Malonga">
+  <img src="bac1.jpg" width="900" alt="BAC 2024 Dashboard - Mentor Malonga">
 </p> 
 
 <p align="center">
-  <img src="bac.jpg" width="900" alt="Dashboard Résultats BAC 2024 - Mentor Malonga">
+  <img src="bac.jpg" width="900" alt="BAC 2024 Dashboard - Mentor Malonga">
 </p>
 
-> *Note : Pour l'affichage sur votre dépôt GitHub, assurez-vous de nommer l'image de ce projet `Projet3.jpg` (ou d'utiliser le nom exact du fichier présent dans votre répertoire) et de modifier l'extension si nécessaire.*
+> *Note: For GitHub display, ensure the image is named `Projet3.jpg` (or matches your repository file naming convention).*
 
 ---
 
-## 2️⃣ Analyse des Données & Insights Clés
+## 2️⃣ Data Analysis & Key Insights
 
-L'exploration visuelle de la donnée à travers l'interface met en évidence des métriques fondamentales :
+The visual exploration of the dataset highlights the following key metrics:
 
-### 📈 Indicateurs Généraux (KPIs)
-*   🎓 **Volume National :** **39 876 élèves diplômés** recensés dans le modèle.
-*   🏫 **Infrastructures :** **703 établissements scolaires** analysés et sectorisés.
-*   📝 **Niveau Académique :** Une moyenne générale de passage s'élevant à **11.46/20**.
-*   ⏳ **Indicateur d'Âge :** Un âge moyen de réussite fixé à **21 ans**.
-
-### 🏢 Répartition par Type d'Établissement
-*   🏛️ **Enseignement Public :** Domine le volume avec **19 400 diplômés** (48.65 %).
-*   🏢 **Enseignement Privé :** Représente une part majeure de **16 184 diplômés** (40.59 %).
-*   👤 **Candidats Libres (Free Candidat) :** Clôturent la marche avec **4 292 bacheliers** (10.76 %).
-
-### 🗂️ Analyse Démographique & Session
-*   🚻 **Segmentation par Genre :** Une répartition équilibrée comprenant **52.08 % d'hommes (M)** et **47.92 % de femmes (F)**.
-*   📅 **Situation par Tranche d'Âge :** **30 003 candidats** ont obtenu le diplôme "Dans les âges" (*In Age*), tandis que **7 905 bacheliers** sont considérés en surâge (*Old For Examen*).
+### 📈 Key Performance Indicators (KPIs)
+* 🎓 **National Volume:** **39,876 graduates** recorded in the dataset.
+* 🏫 **Institutions:** **703 schools** analyzed and categorized.
+* 📝 **Academic Performance:** Average passing score of **11.46 / 20**.
+* ⏳ **Age Indicator:** Average graduation age of **21 years**.
 
 ---
 
-## 3️⃣ Outils & Démarche Technique
-
-| Composant | Utilisation & Compétences Mises en Œuvre |
-|-----------|------------------------------------------|
-| **Power BI Desktop** | Conception de l'interface utilisateur, du design et du storytelling visuel |
-| **Power Query (ETL)** | Ingestion, nettoyage, suppression des doublons et jointures de bases complexes |
-| **Langage DAX** | Développement des mesures calculées pour les moyennes pondérées et ratios par mention |
-| **Data Modeling** | Architecture relationnelle en étoile (Liaison Établissements ➔ Candidats ➔ Sessions) |
+### 🏢 Institutional Distribution
+* 🏛️ **Public Education:** Dominates with **19,400 graduates** (48.65%).
+* 🏢 **Private Education:** Represents **16,184 graduates** (40.59%).
+* 👤 **Independent Candidates:** Account for **4,292 graduates** (10.76%).
 
 ---
 
-## 4️⃣ Solutions & Recommandations Macro-Éducatives
-
-| Points d'Attention Identifiés | Plans d'Actions & Recommandations Proposés |
-|-------------------------------|--------------------------------------------|
-| ⏳ Âge moyen de 21 ans au BAC | Auditer les goulots d'étranglement et le taux de redoublement dans les cycles précédents pour fluidifier les parcours scolaires. |
-| 📈 Concentration des Mentions | Mettre en place des programmes de renforcement pédagogique ciblés pour faire pivoter la masse des mentions "Passable" (D) vers les mentions "Assez Bien" (C) et supérieures. |
-| 🤝 Complémentarité Public/Privé | Standardiser les indicateurs de performance clés (KPIs) des complexes privés performants pour les transposer au secteur public. |
+### 🗂️ Demographic & Session Analysis
+* 🚻 **Gender Distribution:** Balanced structure with **52.08% male (M)** and **47.92% female (F)**.
+* 📅 **Age Classification:** **30,003 candidates** graduated “on age”, while **7,905 candidates** are classified as “over-age”.
 
 ---
 
-[⬅️ **Retour au Profil Principal**](README.md) [➡️ **Retour au Profil_1 Principal**](Projet1.md) [➡️ **Retour au Profil Principal_2**](Projet2.md)
+## 3️⃣ Tools & Technical Approach
+
+| Component | Application & Skills |
+|-----------|--------------------|
+| **Power BI Desktop** | Dashboard design, UI development, and data storytelling |
+| **Power Query (ETL)** | Data ingestion, cleaning, deduplication, and complex dataset merging |
+| **DAX (Data Analysis Expressions)** | Calculated measures for averages, ratios, and performance indicators |
+| **Data Modeling** | Star schema architecture (Schools ➝ Candidates ➝ Exam Sessions relationships) |
+
+---
+
+## 4️⃣ Strategic Recommendations
+
+| Identified Issue | Proposed Action |
+|------------------|-----------------|
+| ⏳ High average graduation age (21 years) | Investigate academic bottlenecks and repetition rates to optimize student progression |
+| 📈 Concentration of average performance | Implement targeted academic reinforcement programs to improve grades from “Pass” to “Good” and above |
+| 🤝 Public vs Private imbalance | Standardize KPIs across high-performing private institutions and replicate best practices in public schools |
+
+---
+
+[⬅️ **Back to Main Profile**](README.md) [➡️ **Project 1**](Projet1.md) [➡️ **Project 2**](Projet2.md)
