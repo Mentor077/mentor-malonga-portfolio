@@ -1,21 +1,21 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- Colonne Image : Centrée et cadrée sur le haut (visage) -->
+    <!-- Colonne Image : Bordure Marron ajoutée -->
     <td valign="top" align="center" width="260" style="padding-right: 20px;">
       <img src="malonga.jpg" alt="Mentor MALONGA"
            style="width: 210px; height: 260px; border-radius: 20px; 
-                  object-fit: cover; 
-                  object-position: top; 
-                  display: block; margin: 0 auto;">
+                  object-fit: cover; object-position: top; 
+                  display: block; margin: 0 auto;
+                  border: 3px solid #8B4513;"> <!-- Bordure Marron (SaddleBrown) -->
     </td>
 
-    <!-- Colonne Texte : Alignée en haut pour être au niveau du titre -->
+    <!-- Colonne Texte -->
     <td valign="top">
-      <h1 style="margin: 0 0 5px 0; color: #333; font-size: 28px;">⚡ Mentor MALONGA ⚡</h1>
-      <h2 style="margin: 0 0 5px 0; color: #555; font-size: 20px;"><b>Data Analyst Senior & Channel Supervisor</b></h2>
-      <p style="margin: 0 0 15px 0; color: #777;"><i>Expert Big Data, BI & Opérations Retail</i></p>
+      <h1 style="margin: 0 0 5px 0; color: #8B4513; font-size: 28px;">⚡ Mentor MALONGA ⚡</h1>
+      <h2 style="margin: 0 0 5px 0; color: #5D2E0A; font-size: 20px;"><b>Data Analyst Senior &amp; Channel Supervisor</b></h2>
+      <p style="margin: 0 0 15px 0; color: #777;"><i>Expert Big Data, BI &amp; Opérations Retail</i></p>
       <p style="margin: 0; line-height: 1.6; font-size: 14px;">
-        💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp;
+        💼 <b>Expertise :</b> Big Data &amp; BI &nbsp;|&nbsp;
         👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp;
         🏢 <b>Entreprise :</b> Tecno Mobile<br>
         📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp;
@@ -26,7 +26,7 @@
   </tr>
 </table>
 
----
+<hr style="border: none; border-top: 2px solid #8B4513; margin: 20px 0;">
 
 ### 🎯 Profil Professionnel
 
@@ -34,17 +34,25 @@ Professionnel de la donnée issu d'un parcours académique rigoureux en **Élect
 
 Mon profil combine une expertise technique de pointe en traitement de données massives (**PySpark, Python Pandas, SQL**) et une solide expérience managériale de terrain en tant que **Channel Supervisor** et **Sales Representative (SR)** pendant 2 ans. 
 
-Cette double compétence me permet de piloter la planification de projets complexes (**MS Project**), d'optimiser les inventaires, de concevoir des KPIs stratégiques et de piloter la performance de réseaux de distribution d'envergure.
-
 ---
 
-### 📊 Matrice de Valeur Ajoutée (Core Value)
+<h3 style="color: #8B4513;">📊 Matrice de Valeur Ajoutée (Core Value)</h3>
 
-| 📈 STRATÉGIE & DISTRIBUTION | 📦 BIG DATA & ANALYTICS | 🎯 PILOTAGE DE PROJETS |
-| :--- | :--- | :--- |
-| • **Channel Supervision** (2 ans)<br>• Management d'équipes de vente (SR)<br>• Suivi de la performance du réseau | • Traitement de données avec **PySpark**<br>• Manipulation avec **Python Pandas**<br>• Modélisation et requêtage **SQL** | • Planification sur **MS Project**<br>• Modélisation de KPIs & Benchmarks<br>• Gestion & Audit des inventaires |
+<!-- Tableau avec bordures marron -->
+<table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 2px solid #8B4513; width: 100%; text-align: left;">
+  <tr style="background-color: #Fdf5e6;"> <!-- Fond crème léger pour le rappel du marron -->
+    <th style="border: 1px solid #8B4513;">📈 STRATÉGIE & DISTRIBUTION</th>
+    <th style="border: 1px solid #8B4513;">📦 BIG DATA & ANALYTICS</th>
+    <th style="border: 1px solid #8B4513;">🎯 PILOTAGE DE PROJETS</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8B4513;">• **Channel Supervision** (2 ans)<br>• Management d'équipes de vente (SR)<br>• Suivi de la performance du réseau</td>
+    <td style="border: 1px solid #8B4513;">• Traitement de données avec **PySpark**<br>• Manipulation avec **Python Pandas**<br>• Modélisation et requêtage **SQL**</td>
+    <td style="border: 1px solid #8B4513;">• Planification sur **MS Project**<br>• Modélisation de KPIs & Benchmarks<br>• Gestion & Audit des inventaires</td>
+  </tr>
+</table>
 
----
+<hr style="border: none; border-top: 2px solid #8B4513; margin: 20px 0;">
 
 ### 🛠️ Ma Boîte à Outils (Tech Stack)
 
@@ -60,19 +68,8 @@ Cette double compétence me permet de piloter la planification de projets comple
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
 *   📊 **[1. Transport Logistics Dashboard (MAP Transport)](./Projet1.md)**  
-    *Analyse de la performance commerciale & logistique (2021-2024)*
 *   📊 **[2. Dashboard de Performance Commerciale de MAP | Power BI (MAP SALE)](./Projet2.md)**  
-    *Pilotage de la performance commerciale et suivi des ventes*
 *   🎓 **[3. Congolese Examen (BAC) Report Of 2024](./Projet3.md)**  
-    *Analyse stratégique du marché de l'éducation*
-
----
-
-### 🎖️ Certifications Principales
-
-*   🥇 **Google Data Analytics Professional Certificate** — Coursera
-*   📊 **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
-*   🐍 **Big Data Foundations with Apache Spark** — IBM
 
 ---
 
@@ -83,4 +80,4 @@ Cette double compétence me permet de piloter la planification de projets comple
 *   📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
 
 ---
-<p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
+<p align="center" style="color: #8B4513;">Conçu avec précision • Mentor Malonga © 2026</p>
