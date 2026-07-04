@@ -53,7 +53,7 @@ Cette double compétence me permet de piloter la planification de projets comple
 * 📊 **[1. Transport Logistics Dashboard (MAP Transport)](./Projet1.md)**  
   *Analyse de la performance commerciale & logistique (2021-2024)*
 
-* 📊 **[2. Marketing Analytics & Sales Tracker (Tecno Mobile)](./Projet2.md)**  
+* 📊 **[2. Marketing Analytics & Sales Tracker (Te)](./Projet2.md)**  
   *Pilotage de la performance commerciale et suivi des ventes*
 
 * 🎓 **[3. Educational Market Analysis & Strategic Ingestion Dashboard](./Projet3.md)**  
@@ -71,7 +71,7 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 ### 📬 Me Contacter
 
-* 💼 **LinkedIn :** [://linkedin.com]([https://www.://linkedin.com](https://www.linkedin.com/in/mentormalonga))
+* 💼 **LinkedIn :** [://linkedin.com]([https://www.://linkedin.com](https://www.linkedin.com/in/mentor-malonga))
 * 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me)
 * 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
 
