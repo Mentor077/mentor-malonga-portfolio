@@ -154,8 +154,4 @@ L'utilisation de **Power Query**, **DAX** et **Power BI** a permis de transforme
 
 ---
 
-<p align="center">
-  <a href="README.md" target="_top">
-    🏁 <b>[Retour au Profil Principal]</b>
-  </a>
-</p>
+[⬅️ **Retour au Profil Principal**](README.md) [➡️ **Retour au Profil1 Principal**](Projet1.md) [➡️ **Retour au Profil3 Principal**](Projet3.md)
