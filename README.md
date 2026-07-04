@@ -1,16 +1,16 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- Colonne Image : Centrée et cadrée sur le visage -->
-    <td valign="top" align="center" width="260" style="padding-right: 20px;">
+    <td valign="top" align="center" width="240" style="padding-right: 25px;">
       <img src="malonga.jpg" alt="Mentor MALONGA"
            style="width: 210px; height: 260px; border-radius: 20px; 
                   object-fit: cover; object-position: top; 
                   display: block; margin: 0 auto;">
     </td>
 
-    <!-- Colonne Texte : Alignement parfait avec le haut de l'image -->
+    <!-- Colonne Texte : Alignement millimétré avec le haut de l'image -->
     <td valign="top" style="padding: 0;">
-      <h1 style="margin: 0 0 5px 0; color: #333; font-size: 26px; line-height: 1;">
+      <h1 style="margin: 0 0 5px 0; color: #333; font-size: 26px; line-height: 1.1; padding-top: 2px;">
         ⚡ Mentor MALONGA ⚡
       </h1>
       <h2 style="margin: 0 0 8px 0; color: #555; font-size: 19px; line-height: 1.2;">
@@ -28,8 +28,8 @@
         📈 <b>Expérience :</b> +6 ans
       </p>
     </td>
-  </tr> <!-- Correction : Ajout de la fermeture de la ligne -->
-</table> <!-- Correction : Ajout de la fermeture du tableau -->
+  </tr>
+</table>
 
 ---
 
@@ -91,4 +91,4 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 ---
 
-<p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
+<p align="center" style="font-size: 12px; color: #777; margin-top: 30px;">Conçu avec précision • Mentor Malonga © 2026</p>
