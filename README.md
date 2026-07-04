@@ -64,7 +64,7 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
-* 📊 **[1. Transport & Logistics Performance Dashboard (MAP SALE](./Projet1.md)**  
+* 📊 **[1. Transport & Logistics Performance Dashboard (MAP SALE)](./Projet1.md)**  
   *Analyse de la performance commerciale et logistique (2021-2024)*
 
 * 📊 **[2. Tableau de bord de performance commerciale | Power BI (MAP SALE)](./Projet2.md)**  
