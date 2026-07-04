@@ -1,78 +1,82 @@
-[⬅️ **Retour au Profil Principal**](README.md)
+[⬅️ **Back to Main Profile**](README.md)
 
 # Transport & Logistics Performance Dashboard (MAP)
 
-> **Tableau de bord décisionnel** — Analyse de performance commerciale et logistique (2021-2024)
+> **Decision-making dashboard** — Commercial and logistics performance analysis (2021–2024)
 
 ---
 
-## 1️⃣ Introduction du Projet
+## 1️⃣ Project Overview
 
-**MAP Transport** est une entreprise de transport multimodal (maritime, routier, aérien, fluvial).  
+**MAP Transport** is a multimodal transport company operating across maritime, road, air, and river logistics.
 
-J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues analytiques majeures** couvrant **4 années d'activité (2021-2024)**, transformant des milliers de lignes de données brutes en un outil de décision clair et visuel.
+I designed an interactive **Power BI dashboard** structured into **two main analytical views**, covering **four years of activity (2021–2024)**, transforming thousands of raw data records into a clear and actionable decision-making tool.
 
-🎯 **Objectif :** Offrir une vision à 360° du cycle commercial — du prospect jusqu'au client confirmé.
-
----
-
-## 📊 Aperçu du Rapport Power BI
-
-### Vue 1 : Dashboard Général
-![Dashboard Général - MAP Transport](map-first.jpg)
+🎯 **Objective:** Provide a 360° view of the commercial cycle — from prospect to confirmed customer.
 
 ---
 
-### Vue 2 : Tableau de Détail des Indicateurs
-![Tableau de Détail des Indicateurs - MAP Transport](map-second.jpg)
+## 📊 Power BI Report Overview
+
+### View 1: General Dashboard
+![General Dashboard - MAP Transport](map-first.jpg)
 
 ---
 
-## 2️⃣ Détail du Travail Réalisé
-
-### 🛠️ Collecte & Préparation (ETL)
-* Importation des bases de données de facturation, prospects et clients.
-* Nettoyage rigoureux et normalisation des données sous **Power Query**.
-
-### 📐 Modélisation Relationnelle
-* Création d'un modèle de données en étoile (**Star Schema**) pour optimiser les performances de calcul.
-
-### 🔢 Conception des Indicateurs Métier (DAX)
-* Création de mesures complexes en langage **DAX** (KPIs stratégiques, taux de conversion, intelligence temporelle).
+### View 2: Detailed Indicators Table
+![Detailed Indicators Table - MAP Transport](map-second.jpg)
 
 ---
 
-## 3️⃣ Stack Technique
+## 2️⃣ Data Processing & Work Performed
 
-| Outil | Utilisation |
+### 🛠️ Data Collection & Preparation (ETL)
+* Imported billing, prospects, and customer datasets.
+* Performed rigorous cleaning and standardization using **Power Query**.
+
+### 📐 Data Modeling
+* Designed a **Star Schema data model** to optimize performance and analytical efficiency.
+
+### 🔢 KPI Development (DAX)
+* Built complex **DAX measures** (key performance indicators, conversion rates, time intelligence metrics).
+
+---
+
+## 3️⃣ Tools & Technologies
+
+| Tool | Usage |
 | :--- | :--- |
-| **Power BI Desktop** | Développement de l'interface et des visualisations interactives |
-| **Power Query** | Processus d'Extraction, Transformation et Chargement (ETL) |
-| **Langage DAX** | Écriture des mesures calculées et indicateurs de performance |
+| **Power BI Desktop** | Dashboard design and interactive visualizations |
+| **Power Query** | Data extraction, transformation, and loading (ETL) |
+| **DAX (Data Analysis Expressions)** | Creation of calculated measures and KPIs |
 
 ---
 
-## 4️⃣ Analyse & Insights Stratégiques
+## 4️⃣ Insights & Business Analysis
 
-### 📈 Performance Globale
-* **Revenu total confirmé :** 1.22 Md FCFA.
-* **Taux de conversion :** Environ 41 % (263 factures confirmées sur 637 émises).
+### 📈 Overall Performance
+* **Total confirmed revenue:** 1.22 Billion FCFA
+* **Conversion rate:** ~41% (263 confirmed invoices out of 637 issued)
 
-### 🔍 Diagnostic des Pertes Commerciales
-* **Montant perdu :** 1.93 Md FCFA. Un levier d'optimisation majeur a été identifié sur les devis non convertis.
+### 🔍 Sales Leakage Analysis
+* **Lost revenue:** 1.93 Billion FCFA  
+A major optimization opportunity was identified in unconverted quotations.
 
 ---
 
-## 5️⃣ Solutions & Recommandations
+## 5️⃣ Business Recommendations
 
-| Problème identifié | Solution proposée |
+| Identified Issue | Proposed Solution |
 | :--- | :--- |
-| **Pertes commerciales élevées** | Mettre en place un audit systématique des motifs de refus. |
-| **Volume en attente important** | Automatiser les alertes de relance pour réduire le cycle de vente. |
+| High sales leakage | Implement systematic audit of rejection reasons |
+| High pending volume | Automate follow-up alerts to reduce sales cycle duration |
 
 ---
-## 🚀 Technologies & Compétences Métier
+
+## 🚀 Technologies & Core Competencies
 
 **Business Intelligence • ETL • Data Modeling • Star Schema • DAX • KPI Design • Sales Analytics • Data Visualization • Decision Support**
 
-[⬅️ **Retour au Profil Principal**](README.md) [➡️ **Retour au Profil_2 Principal**](Projet2.md) [➡️ **Retour au Profil Principal_3**](Projet3.md)
+---
+
+[⬅️ **Back to Main Profile**](README.md) [➡️ **Next Project**](Projet2.md)
