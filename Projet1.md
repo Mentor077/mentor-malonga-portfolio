@@ -71,7 +71,7 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 | **Volume en attente important** | Automatiser les alertes de relance pour réduire le cycle de vente. |
 
 ---
-## 🚀 Technologies & Compétences Métiers
+## 🚀 Technologies & Compétences Métier
 
 **Business Intelligence • ETL • Data Modeling • Star Schema • DAX • KPI Design • Sales Analytics • Data Visualization • Decision Support**
 
