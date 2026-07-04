@@ -37,23 +37,25 @@
 
 Professionnel de la donnée issu d'un parcours académique rigoureux en **Électronique**, je cumule plus de 6 ans d'expérience stratégique depuis 2020 au sein de **Tecno Mobile**.
 
-Mon profil combine une expertise technique de pointe en traitement de données massives (**PySpark, Python, SQL**) et une solide expérience managériale de terrain. Cette double compétence me permet de transformer des flux de données complexes en leviers décisionnels concrets pour optimiser la performance commerciale et les réseaux de distribution.
+Mon profil combine une expertise technique de pointe en traitement de données massives (**PySpark, Python, Pandas, SQL**), une forte capacité de **visualisation des données** via **Power BI** et **Tableau**, ainsi qu'une solide expérience managériale de terrain en tant que **Channel Supervisor** et **Sales Representative (SR)** pendant 2 ans.
+
+Cette double compétence me permet de piloter la planification de projets complexes avec **MS Project**, d'optimiser les inventaires, de concevoir des KPIs stratégiques et de piloter la performance de réseaux de distribution d'envergure.
 
 ---
 
 ### 📊 Matrice de Valeur Ajoutée (Core Value)
 
-| 📈 STRATÉGIE & DISTRIBUTION | 📦 BIG DATA & ANALYTICS | 🎨 VISUALISATION DE DONNÉES |
+| 📈 STRATÉGIE & DISTRIBUTION | 📦 BIG DATA, BI & ANALYTICS | 🎯 PILOTAGE DE PROJETS |
 | :--- | :--- | :--- |
-| • **Channel Supervision** (2 ans)<br>• Management d'équipes de vente (SR)<br>• Suivi de performance réseau<br>• Optimisation des inventaires | • Traitement via **PySpark** & **SQL**<br>• Manipulation **Python** & **Pandas**<br>• Modélisation de données complexes<br>• Analyse prédictive & KPIs | • Création de Dashboards interactifs<br>• Storytelling de données (**BI**)<br>• Maîtrise de **Power BI** & **Tableau**<br>• Reporting automatisé |
+| • **Channel Supervision** (2 ans)<br>• Management d'équipes de vente (SR)<br>• Suivi de la performance du réseau | • Traitement de données avec **PySpark**<br>• Manipulation avec **Python** et **Pandas**<br>• Modélisation et requêtage **SQL**<br>• **Visualisation des données** avec **Power BI** et **Tableau** | • Planification sur **MS Project**<br>• Modélisation de KPIs & Benchmarks<br>• Gestion & Audit des inventaires |
 
 ---
 
 ### 🛠️ Ma Boîte à Outils (Tech Stack)
 
 * **Data Engineering & Big Data :** PySpark, Apache Hadoop, Python, Pandas, SQL
-* **Business Intelligence & Vis :** Power BI, Tableau, Looker Studio, Matplotlib, Seaborn
-* **Opérations & Performance :** Channel Supervision, MS Project, KPIs Strategiques
+* **Business Intelligence & Visualisation :** Power BI, Tableau, Excel, Google Sheets
+* **Pilotage de Projets & Opérations :** MS Project, Channel Supervision, Gestion des Inventaires, KPIs
 * **Environnement Tech :** Git, GitHub, VS Code, Jupyter, IoT / Électronique
 
 ---
