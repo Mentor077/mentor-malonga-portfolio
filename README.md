@@ -1,16 +1,17 @@
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- Colonne image -->
-    <td valign="top" align="center" width="280" style="text-align: center;">
+    <!-- Colonne Image : Centrée horizontalement et alignée en haut -->
+    <td valign="top" align="center" width="260" style="padding-right: 20px;">
       <img src="malonga.jpg" alt="Mentor MALONGA"
            style="width: 220px; height: 220px; border-radius: 20px; object-fit: cover; display: block; margin: 0 auto;">
     </td>
 
+    <!-- Colonne Texte : Alignée en haut -->
     <td valign="top">
-      <h1 style="margin: 0 0 10px 0;">⚡ Mentor MALONGA ⚡</h1>
-      <h2 style="margin: 0 0 10px 0;"><b>Data Analyst Senior & Channel Supervisor</b></h2>
-      <p style="margin: 0 0 10px 0;"><i>Expert Big Data, BI & Opérations Retail</i></p>
-      <p style="margin: 0;">
+      <h1 style="margin: 0 0 5px 0; color: #333;">⚡ Mentor MALONGA ⚡</h1>
+      <h2 style="margin: 0 0 5px 0; color: #555;"><b>Data Analyst Senior & Channel Supervisor</b></h2>
+      <p style="margin: 0 0 15px 0; color: #777;"><i>Expert Big Data, BI & Opérations Retail</i></p>
+      <p style="margin: 0; line-height: 1.6; font-size: 14px;">
         💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp;
         👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp;
         🏢 <b>Entreprise :</b> Tecno Mobile<br>
@@ -21,6 +22,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ### 🎯 Profil Professionnel
 
@@ -42,10 +45,10 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 ### 🛠️ Ma Boîte à Outils (Tech Stack)
 
-* **Data Engineering & Big Data :** PySpark, Apache Hadoop, Python, Pandas, SQL
-* **Business Intelligence :** Power BI, Tableau, MS Project, Excel, Google Sheets
-* **Opérations & Performance :** Channel Supervision, Gestion des Inventaires, KPIs
-* **Environnement Tech :** Git, GitHub, VS Code, Jupyter, IoT / Électronique
+*   **Data Engineering & Big Data :** PySpark, Apache Hadoop, Python, Pandas, SQL
+*   **Business Intelligence :** Power BI, Tableau, MS Project, Excel, Google Sheets
+*   **Opérations & Performance :** Channel Supervision, Gestion des Inventaires, KPIs
+*   **Environnement Tech :** Git, GitHub, VS Code, Jupyter, IoT / Électronique
 
 ---
 
@@ -53,31 +56,28 @@ Cette double compétence me permet de piloter la planification de projets comple
 
 > 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
 
-* 📊 **[1. Transport Logistics Dashboard (MAP Transport)](./Projet1.md)**  
-  *Analyse de la performance commerciale & logistique (2021-2024)*
-
-* 📊 **[2. Dashboard de Performance Commerciale de MAP | Power BI (MAP SALE)](./Projet2.md)**  
-  *Pilotage de la performance commerciale et suivi des ventes*
-
-* 🎓 **[3. Congolese Examen (BAC) Report Of 2024](./Projet3.md)**  
-  *Analyse stratégique du marché de l'éducation*
+*   📊 **[1. Transport Logistics Dashboard (MAP Transport)](./Projet1.md)**  
+    *Analyse de la performance commerciale & logistique (2021-2024)*
+*   📊 **[2. Dashboard de Performance Commerciale de MAP | Power BI (MAP SALE)](./Projet2.md)**  
+    *Pilotage de la performance commerciale et suivi des ventes*
+*   🎓 **[3. Congolese Examen (BAC) Report Of 2024](./Projet3.md)**  
+    *Analyse stratégique du marché de l'éducation*
 
 ---
 
 ### 🎖️ Certifications Principales
 
-* 🥇 **Google Data Analytics Professional Certificate** — Coursera
-* 📊 **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
-* 🐍 **Big Data Foundations with Apache Spark** — IBM
+*   🥇 **Google Data Analytics Professional Certificate** — Coursera
+*   📊 **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
+*   🐍 **Big Data Foundations with Apache Spark** — IBM
 
 ---
 
 ### 📬 Me Contacter
 
-* 💼 **LinkedIn :** [https://www.linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)
-* 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me/242069776995)
-* 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
+*   💼 **LinkedIn :** [linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)
+*   💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me/242069776995)
+*   📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
 
 ---
 <p align="center">Conçu avec précision • Mentor Malonga © 2026</p>
-```
