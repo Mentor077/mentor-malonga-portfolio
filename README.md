@@ -1,14 +1,16 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- Colonne Image -->
+    <!-- Colonne Image : Centrée et cadrée sur le visage -->
     <td valign="top" align="center" width="260" style="padding-right: 20px;">
       <img src="malonga.jpg" alt="Mentor MALONGA"
-           style="width: 210px; height: auto; max-height: 260px; border-radius: 20px; display: block; margin: 0 auto;">
+           style="width: 210px; height: 260px; border-radius: 20px; 
+                  object-fit: cover; object-position: top; 
+                  display: block; margin: 0 auto;">
     </td>
 
-    <!-- Colonne Texte -->
-    <td valign="top" style="vertical-align: top; padding-top: 0;">
-      <h1 style="margin: 0 0 5px 0; color: #333; font-size: 26px; line-height: 1.2;">
+    <!-- Colonne Texte : Alignement parfait avec le haut de l'image -->
+    <td valign="top" style="padding: 0;">
+      <h1 style="margin: 0 0 5px 0; color: #333; font-size: 26px; line-height: 1;">
         ⚡ Mentor MALONGA ⚡
       </h1>
       <h2 style="margin: 0 0 8px 0; color: #555; font-size: 19px; line-height: 1.2;">
@@ -26,8 +28,8 @@
         📈 <b>Expérience :</b> +6 ans
       </p>
     </td>
-  </tr>
-</table>
+  </tr> <!-- Correction : Ajout de la fermeture de la ligne -->
+</table> <!-- Correction : Ajout de la fermeture du tableau -->
 
 ---
 
