@@ -1,5 +1,3 @@
-Voici ton code avec uniquement l’erreur corrigée :
-
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
