@@ -84,4 +84,3 @@ Mon profil combine une expertise technique de pointe en traitement de données m
 
 ---
 <p align="center" style="color: #8B4513; font-size: 12px; margin-top: 30px;">Conçu avec précision • Mentor Malonga © 2026</p>
-```
