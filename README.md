@@ -1,23 +1,26 @@
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <!-- Colonne Gauche : Photo de profil alignée par le haut -->
-    <td valign="top" width="190">
-      <img src="malonga.jpg" alt="Mentor MALONGA" width="280" height="280" style="border-radius: 20px; object-fit: cover;">
+    <td valign="top" align="center" width="300">
+      <img src="malonga.jpg" alt="Mentor MALONGA"
+           style="width: 220px; height: 220px; border-radius: 20px; object-fit: cover; display: block;">
     </td>
-    <!-- Colonne Droite : Titres et présentations alignés sur la même ligne -->
+
     <td valign="top">
       <h1 style="margin-top: 0;">⚡ Mentor MALONGA ⚡</h1>
       <h2><b>Data Analyst Senior & Channel Supervisor</b></h2>
       <p><i>Expert Big Data, BI & Opérations Retail</i></p>
       <p>
-        💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp; 👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp; 🏢 <b>Entreprise :</b> Tecno Mobile<br>
-        📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp; 🟢 <b>Statut :</b> Disponible &nbsp;|&nbsp; 📈 <b>Expérience :</b> +6 ans
+        💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp;
+        👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp;
+        🏢 <b>Entreprise :</b> Tecno Mobile<br>
+        📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp;
+        🟢 <b>Statut :</b> Disponible &nbsp;|&nbsp;
+        📈 <b>Expérience :</b> +6 ans
       </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🎯 Profil Professionnel
