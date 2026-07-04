@@ -1,11 +1,4 @@
----
-layout: default
-title: MAP Transport Performance Dashboard
----
-
 [⬅️ **Retour au Profil Principal**](README.md)
-
----
 
 # MAP Transport Performance Dashboard
 
@@ -42,14 +35,14 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 ## 2️⃣ Détail du Travail Réalisé
 
 ### 🛠️ Collecte & Préparation (ETL)
-- Importation des bases de données de facturation, prospects et clients.
-- Nettoyage rigoureux et normalisation des données sous **Power Query**.
+* Importation des bases de données de facturation, prospects et clients.
+* Nettoyage rigoureux et normalisation des données sous **Power Query**.
 
 ### 📐 Modélisation Relationnelle
-- Création d'un modèle de données en étoile (Star Schema) pour optimiser les performances de calcul.
+* Création d'un modèle de données en étoile (**Star Schema**) pour optimiser les performances de calcul.
 
 ### 🔢 Conception des Indicateurs Métier (DAX)
-- Création de mesures complexes en langage **DAX** (KPIs stratégiques, taux de conversion, évolutions temporelles).
+* Création de mesures complexes en langage **DAX** (KPIs stratégiques, taux de conversion, intelligence temporelle).
 
 ---
 
@@ -59,18 +52,18 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 | :--- | :--- |
 | **Power BI Desktop** | Développement de l'interface et des visualisations interactives |
 | **Power Query** | Processus d'Extraction, Transformation et Chargement (ETL) |
-| **Langage DAX** | Écriture des mesures calculées et intelligence temporelle |
+| **Langage DAX** | Écriture des mesures calculées et indicateurs de performance |
 
 ---
 
 ## 4️⃣ Analyse & Insights Stratégiques
 
 ### 📈 Performance Globale
-- **Revenu total confirmé :** 1.22 Md FCFA.
-- **Taux de conversion :** Environ 41 % (263 factures confirmées sur 637 émises).
+* **Revenu total confirmé :** 1.22 Md FCFA.
+* **Taux de conversion :** Environ 41 % (263 factures confirmées sur 637 émises).
 
 ### 🔍 Diagnostic des Pertes Commerciales
-- **Montant perdu :** 1.93 Md FCFA. Un levier d'optimisation majeur a été identifié sur les devis non convertis.
+* **Montant perdu :** 1.93 Md FCFA. Un levier d'optimisation majeur a été identifié sur les devis non convertis.
 
 ---
 
