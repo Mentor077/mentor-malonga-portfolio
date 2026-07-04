@@ -1,16 +1,16 @@
-
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <td valign="top" align="center" width="300">
+    <!-- Colonne image -->
+    <td valign="top" align="center" width="280" style="text-align: center;">
       <img src="malonga.jpg" alt="Mentor MALONGA"
-           style="width: 220px; height: 220px; border-radius: 20px; object-fit: cover; display: block;">
+           style="width: 220px; height: 220px; border-radius: 20px; object-fit: cover; display: block; margin: 0 auto;">
     </td>
 
     <td valign="top">
-      <h1 style="margin-top: 0;">⚡ Mentor MALONGA ⚡</h1>
-      <h2><b>Data Analyst Senior & Channel Supervisor</b></h2>
-      <p><i>Expert Big Data, BI & Opérations Retail</i></p>
-      <p>
+      <h1 style="margin: 0 0 10px 0;">⚡ Mentor MALONGA ⚡</h1>
+      <h2 style="margin: 0 0 10px 0;"><b>Data Analyst Senior & Channel Supervisor</b></h2>
+      <p style="margin: 0 0 10px 0;"><i>Expert Big Data, BI & Opérations Retail</i></p>
+      <p style="margin: 0;">
         💼 <b>Expertise :</b> Big Data & BI &nbsp;|&nbsp;
         👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp;
         🏢 <b>Entreprise :</b> Tecno Mobile<br>
@@ -21,7 +21,6 @@
     </td>
   </tr>
 </table>
----
 
 ### 🎯 Profil Professionnel
 
