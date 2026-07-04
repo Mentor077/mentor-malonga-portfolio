@@ -19,16 +19,12 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 ## 📊 Aperçu du Rapport Power BI
 
 ### Vue 1 : Dashboard Général
-<p align="center">
-  <img src="map-first.jpg" width="900" alt="Dashboard Général - MAP Transport">
-</p>
+![Dashboard Général - MAP Transport](map-first.jpg)
 
 ---
 
 ### Vue 2 : Tableau de Détail des Indicateurs
-<p align="center">
-  <img src="map-second.jpg" width="900" alt="Tableau de Détail des Indicateurs - MAP Transport">
-</p>
+![Tableau de Détail des Indicateurs - MAP Transport](map-second.jpg)
 
 ---
 
@@ -76,8 +72,4 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ---
 
-<p align="center">
-  <a href="README.md">
-    🏁 <b>[Retour au Profil Principal]</b>
-  </a>
-</p>
+[🏁 **Retour au Profil Principal**](README.md)
