@@ -3,7 +3,7 @@
   <tr>
     <!-- Colonne Gauche : Photo de profil alignée par le haut -->
     <td valign="top" width="190">
-      <img src="Mentor.jpg" alt="Mentor MALONGA" width="180" height="180" style="border-radius: 10px; object-fit: cover;">
+      <img src="malonga.jpg" alt="Mentor MALONGA" width="180" height="180" style="border-radius: 10px; object-fit: cover;">
     </td>
     <!-- Colonne Droite : Titres et présentations alignés sur la même ligne -->
     <td valign="top">
