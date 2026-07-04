@@ -72,4 +72,4 @@ J'ai conçu un **tableau de bord interactif Power BI** structuré en **2 vues an
 
 ---
 
-[⬅️ **Retour au Profil Principal**](README.md) [⬅️ **Retour au Profil Principal**](Projet1.md) [⬅️ **Retour au Profil Principal**](Projet2.md)
+[⬅️ **Retour au Profil Principal**](README.md) [ ➡️**Retour au Profil Principal**](Projet2.md) [➡️ **Retour au Profil Principal**](Projet3.md)
