@@ -1,6 +1,6 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- Colonne Image : Centrée et cadrée sur le visage -->
+    <!-- Image Column -->
     <td valign="top" align="center" width="240" style="padding-right: 25px;">
       <img src="malonga.jpg" alt="Mentor MALONGA"
            style="width: 210px; height: 260px; border-radius: 20px; 
@@ -8,7 +8,7 @@
                   display: block; margin: 0 auto;">
     </td>
 
-    <!-- Colonne Texte : Alignement millimétré avec le haut de l'image -->
+    <!-- Text Column -->
     <td valign="top" style="padding: 0;">
       <h1 style="margin: 0 0 5px 0; color: #333; font-size: 26px; line-height: 1.1; padding-top: 2px;">
         ⚡ Mentor MALONGA ⚡
@@ -17,15 +17,15 @@
         <b>Senior Data Analyst &amp; Channel Supervisor</b>
       </h2>
       <p style="margin: 0 0 12px 0; color: #777; font-size: 15px;">
-        <i>Expert Big Data, BI &amp; Opérations Retail</i>
+        <i>Big Data, BI &amp; Retail Operations Specialist</i>
       </p>
       <p style="margin: 0; line-height: 1.6; font-size: 13.5px; color: #333;">
-        💼 <b>Expertise :</b> Big Data &amp; BI &nbsp;|&nbsp;
-        👥 <b>Management :</b> Channel Supervisor &nbsp;|&nbsp;
-        🏢 <b>Entreprise :</b> Tecno Mobile<br>
-        📍 <b>Localisation :</b> Congo Brazzaville &nbsp;|&nbsp;
-        🟢 <b>Statut :</b> Disponible &nbsp;|&nbsp;
-        📈 <b>Expérience :</b> +6 ans
+        💼 <b>Expertise:</b> Big Data &amp; BI &nbsp;|&nbsp;
+        👥 <b>Management:</b> Channel Supervisor &nbsp;|&nbsp;
+        🏢 <b>Company:</b> Tecno Mobile<br>
+        📍 <b>Location:</b> Brazzaville, Republic of the Congo &nbsp;|&nbsp;
+        🟢 <b>Status:</b> Available &nbsp;|&nbsp;
+        📈 <b>Experience:</b> +6 years
       </p>
     </td>
   </tr>
@@ -33,62 +33,64 @@
 
 ---
 
-### 🎯 Profil Professionnel
+### 🎯 Professional Summary
 
-Professionnel de la donnée issu d'un parcours académique rigoureux en **Électronique**, je cumule plus de 6 ans d'expérience stratégique depuis 2020 au sein de **Tecno Mobile**.
+Data professional with a solid academic background in **Electronics Engineering**, with over **6 years of strategic experience** since 2020 at **Tecno Mobile**.
 
-Mon profil combine une expertise technique de pointe en traitement de données massives (**PySpark, Python, Pandas, SQL**), une forte capacité de **visualisation des données** via **Power BI** et **Tableau**, ainsi qu'une solide expérience managériale de terrain en tant que **Channel Supervisor** et **Sales Representative (SR)** pendant 2 ans.
+My profile combines strong expertise in **big data processing** (**PySpark, Python, Pandas, SQL**), advanced **data visualization** using **Power BI** and **Tableau**, and hands-on management experience as a **Channel Supervisor** and **Sales Representative (SR)** for 2 years.
 
-Cette double compétence me permet de piloter la planification de projets complexes avec **MS Project**, d'optimiser les inventaires, de concevoir des KPIs stratégiques et de piloter la performance de réseaux de distribution d'envergure.
+This hybrid background allows me to manage complex project planning using **MS Project**, optimize inventory processes, design strategic KPIs, and drive performance across large-scale distribution networks.
 
 ---
 
-### 📊 Matrice de Valeur Ajoutée (Core Value)
+### 📊 Core Value Matrix
 
-| 📈 STRATÉGIE & DISTRIBUTION | 📦 BIG DATA, BI & ANALYTICS | 🎯 PILOTAGE DE PROJETS |
+| 📈 STRATEGY & DISTRIBUTION | 📦 BIG DATA, BI & ANALYTICS | 🎯 PROJECT MANAGEMENT |
 | :--- | :--- | :--- |
-| • **Channel Supervision** (2 ans)<br>• Management d'équipes de vente (SR)<br>• Suivi de la performance du réseau | • Traitement de données avec **PySpark**<br>• Manipulation avec **Python** et **Pandas**<br>• Modélisation et requêtage **SQL**<br>• **Visualisation des données** avec **Power BI** et **Tableau** | • Planification sur **MS Project**<br>• Modélisation de KPIs & Benchmarks<br>• Gestion & Audit des inventaires |
+| • **Channel Supervision** (2 years)<br>• Sales team management (SR)<br>• Retail network performance tracking | • Data processing with **PySpark**<br>• Data manipulation with **Python** and **Pandas**<br>• **SQL querying & modeling**<br>• Data visualization using **Power BI** & **Tableau** | • Project planning with **MS Project**<br>• KPI design & benchmarking<br>• Inventory management & auditing |
 
 ---
 
-### 🛠️ Ma Boîte à Outils (Tech Stack)
+### 🛠️ Tech Stack
 
-* **Data Engineering & Big Data :** PySpark, Apache Hadoop, Python, Pandas, SQL
-* **Business Intelligence & Visualisation :** Power BI, Tableau, Excel, Google Sheets
-* **Pilotage de Projets & Opérations :** MS Project, Channel Supervision, Gestion des Inventaires, KPIs
-* **Environnement Tech :** Git, GitHub, VS Code, Jupyter, IoT / Électronique
+* **Data Engineering & Big Data:** PySpark, Apache Hadoop, Python, Pandas, SQL  
+* **Business Intelligence & Visualization:** Power BI, Tableau, Excel, Google Sheets  
+* **Project & Operations Management:** MS Project, Channel Supervision, Inventory Management, KPIs  
+* **Technical Environment:** Git, GitHub, VS Code, Jupyter Notebook, IoT / Electronics  
 
 ---
 
-### 🚀 Projets Majeurs Réalisés
+### 🚀 Featured Projects
 
-> 💡 *"Chaque projet est une opportunité de transformer les données en impact mesurable."*
+> 💡 *“Every project is an opportunity to transform data into measurable impact.”*
 
 * 📊 **[1. Transport & Logistics Performance Dashboard (MAP)](./Projet1.md)**  
-  *Analyse de la performance commerciale et logistique (2021-2024)*
+  *Commercial and logistics performance analysis (2021–2024)*
 
-* 📊 **[2. Tableau de bord de performance commerciale | Power BI (MAP)](./Projet2.md)**  
-  *Pilotage de la performance commerciale et suivi des ventes*
+* 📊 **[2. Sales Performance Dashboard | Power BI (MAP)](./Projet2.md)**  
+  *Sales performance tracking and KPI monitoring*
 
-* 🎓 **[3. Republic of the Congo Baccalaureate Report 2024](./Projet3.md)**  
-  *Analyse stratégique du marché de l'éducation*
-
----
-
-### 🎖️ Certifications Principales
-
-* 🥇 **Google Data Analytics Professional Certificate** — Coursera
-* 📊 **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
-* 🐍 **Big Data Foundations with Apache Spark** — IBM
+* 🎓 **[3. Republic of Congo BAC 2024 Report](./Projet3.md)**  
+  *Educational sector data analysis and insights*
 
 ---
 
-### 📬 Me Contacter
+### 🎖️ Certifications
 
-* 💼 **LinkedIn :** [linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)
-* 💬 **WhatsApp :** [+242 06 977 69 95](https://wa.me/242069776995)
-* 📧 **Email :** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)
+* 🥇 **Google Data Analytics Professional Certificate** — Coursera  
+* 📊 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
+* 🐍 **Big Data Foundations with Apache Spark** — IBM  
 
 ---
 
-<p align="center" style="font-size: 12px; color: #777; margin-top: 30px;">Conçu avec précision • Mentor Malonga © 2026</p>
+### 📬 Contact
+
+* 💼 **LinkedIn:** [linkedin.com/in/mentor-malonga](https://www.linkedin.com/in/mentor-malonga)  
+* 💬 **WhatsApp:** [+242 06 977 69 95](https://wa.me/242069776995)  
+* 📧 **Email:** [mentormalonga17@gmail.com](mailto:mentormalonga17@gmail.com)  
+
+---
+
+<p align="center" style="font-size: 12px; color: #777; margin-top: 30px;">
+Designed with precision • Mentor Malonga © 2026
+</p>
