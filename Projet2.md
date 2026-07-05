@@ -154,4 +154,4 @@ L'utilisation de **Power Query**, **DAX** et **Power BI** a permis de transforme
 
 ---
 
-[⬅️ **Back to Main Profile**](README.md) [➡️ **Project 1**](Projet1.md) [➡️ **Project 2**](Projet2.md)
+[⬅️ **Back to Main Profile**](README.md) [➡️ **Project 1**](Projet1.md) [➡️ **Project 3**](Projet3.md)
