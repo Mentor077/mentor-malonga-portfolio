@@ -79,4 +79,4 @@ A major optimization opportunity was identified in unconverted quotations.
 
 ---
 
-[⬅️ **Back to Main Profile**](README.md) [➡️ **Next Project**](Projet2.md)
+[⬅️ **Back to Main Profile**](README.md) [➡️ **Project 1**](Projet2.md) [➡️ **Project 2**](Projet3.md)
